@@ -1,8 +1,6 @@
 # PTV GTFS Data Analysis
-Created on 3 April 2022
-Updated on 15 July 2022
-
-Project uploaded to https://github.com/thanhan910/PTV-GTFS-Data-Analysis
+- Project started on 3 April 2022.
+- Project updated in July 2022, August 2023, October 2023, and so on.
 
 This project focuses on analyzing the State of Victoria's Public Transport System. (PTV) through its GTFS data.
 
