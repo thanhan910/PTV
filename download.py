@@ -2,6 +2,8 @@ import components as comp
 from datetime import datetime
 import os
 
+# Download the GTFS file into a local folder
+
 if __name__ == '__main__':
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
     current_dir = os.getcwd()
