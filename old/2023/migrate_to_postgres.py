@@ -9,17 +9,17 @@ import psycopg2
 import requests
 from datetime import datetime
 
-import components as comp
+import pyptvgtfs
 
 # Extract data from the nested ZIP files
 
-dfs : list[comp.GtfsDataframe] = []
+dfs : list[pyptvgtfs.GtfsDataframe] = []
 
 for dirpath, dirnames, filenames in os.walk('downloads'):
     for filename in filenames:
         gtfs_zip_path = os.path.join(dirpath, filename)
         version_id = gtfs_zip_path.split(os.sep)[-2]
-        dfs1 = comp.process_gtfs_zip(gtfs_zip_path, version_id)
+        dfs1 = pyptvgtfs.process_gtfs_zip(gtfs_zip_path, version_id)
         dfs.extend(dfs1)
 
 
@@ -28,7 +28,7 @@ dfs.extend(dfs1)
 
 dfs.sort(key=lambda x: len(x.df), reverse=False)
 
-pgdb = comp.PostGreSQLWrapper(db_name="gtfs")
+pgdb = pyptvgtfs.PostGreSQLWrapper(db_name="gtfs")
     
 with pgdb.engine.connect() as engine, pgdb.connection as conn, pgdb.cursor as cursor:
 

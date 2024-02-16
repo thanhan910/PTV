@@ -16,7 +16,7 @@ class TestX(unittest.TestCase):
         
 
     def test_compare_versions2(self):
-        import components as comp
+        import pyptvgtfs
         import os
         import logging
         dfs = {}
@@ -25,7 +25,7 @@ class TestX(unittest.TestCase):
                 gtfs_zip_path = os.path.join(dirpath, filename)
                 logging.info(gtfs_zip_path)
                 version_id = gtfs_zip_path.split(os.sep)[-2]
-                dfx = comp.process_gtfs_zip(gtfs_zip_path, version_id)
+                dfx = pyptvgtfs.process_gtfs_zip(gtfs_zip_path, version_id)
                 dfs[version_id] = dfx
 
         # compare all versions to all other versions
@@ -33,7 +33,7 @@ class TestX(unittest.TestCase):
             for version_id2, df2 in dfs.items():
                 if version_id1 == version_id2:
                     continue
-                diff = comp.compare_ptv_gtfs_versions(df1, df2)
+                diff = pyptvgtfs.compare_ptv_gtfs_versions(df1, df2)
                 self.assertNotEqual(len(diff), 0)
         
 

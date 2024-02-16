@@ -1,5 +1,5 @@
 # %%
-import components as comp
+import pyptvgtfs
 import pandas as pd
 import numpy as np
 import os
@@ -29,7 +29,7 @@ def find_nearest_stops(df, df_stops):
 
 
 # %%
-dfs = comp.process_gtfs_zip('downloads/20231030_224547/gtfs.zip', version_id='20231030_224547')
+dfs = pyptvgtfs.process_gtfs_zip('downloads/20231030_224547/gtfs.zip', version_id='20231030_224547')
         
 
 # %%

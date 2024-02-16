@@ -1,4 +1,4 @@
-import components as comp
+import pyptvgtfs
 from datetime import datetime
 import os
 
@@ -11,4 +11,4 @@ if __name__ == '__main__':
     print(f"Current time: {current_time}")
     print(f"Current directory: {current_dir}")
     print(f"Output directory: {output_dir}")
-    comp.download_gtfs_zip("http://data.ptv.vic.gov.au/downloads/gtfs.zip", output_dir)
+    pyptvgtfs.download_gtfs_zip("http://data.ptv.vic.gov.au/downloads/gtfs.zip", output_dir)
