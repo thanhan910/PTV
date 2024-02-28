@@ -1,0 +1,838 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+5-995-mjp-11,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-12,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-14,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-15,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-16,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-2,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-3,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-5,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-6,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-995-mjp-8,,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5-als-mjp-1,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-10,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-12,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-13,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-14,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-2,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-3,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-4,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-5,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-6,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-7,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-8,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-als-mjp-9,,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5-EC2-mjp-1,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-10,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-11,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-12,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-13,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-14,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-15,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-16,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-17,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-18,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-2,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-3,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-4,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-5,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-6,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-7,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-8,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-EC2-mjp-9,,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5-Ech-mjp-1,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-10,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-11,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-12,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-13,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-14,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-15,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-16,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-17,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-18,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-2,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-3,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-4,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-5,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-6,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-7,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-8,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-Ech-mjp-9,,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5-mby-mjp-1,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-10,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-11,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-12,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-13,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-14,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-15,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-16,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-17,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-18,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-2,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-3,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-4,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-5,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-6,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-7,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-8,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-mby-mjp-9,,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5-pay-mjp-1,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-10,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-12,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-13,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-14,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-2,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-3,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-4,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-5,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-6,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-7,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-8,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-pay-mjp-9,,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+5-Sht-mjp-1,,,Shepparton Via Seymour,3,A57FB2,FFFFFF
+5-Sht-mjp-2,,,Shepparton - Melbourne Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-1,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-10,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-11,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-12,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-13,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-14,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-15,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-16,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-17,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-18,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-2,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-3,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-4,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-5,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-6,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-7,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-8,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V01-mjp-9,,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5-V02-mjp-1,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-10,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-11,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-12,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-13,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-14,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-15,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-16,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-17,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-18,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-2,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-3,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-4,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-5,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-6,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-7,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-8,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V02-mjp-9,,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5-V03-mjp-1,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-10,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-11,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-12,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-13,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-14,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-15,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-16,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-17,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-18,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-2,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-3,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-4,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-5,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-6,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-7,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-8,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V03-mjp-9,,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5-V04-mjp-1,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-10,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-11,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-12,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-13,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-14,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-15,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-16,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-17,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-18,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-2,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-3,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-4,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-5,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-6,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-7,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-8,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V04-mjp-9,,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5-V05-mjp-1,,,Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-10,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-11,,,Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-12,,,Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-13,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-14,,,Ballarat Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-16,,,Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-17,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-18,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-2,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-3,,,Ballarat Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-4,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-5,,,Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-6,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-7,,,Ballarat Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-8,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V05-mjp-9,,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5-V06-mjp-1,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-10,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-12,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-13,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-14,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-2,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-3,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-4,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-5,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-6,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-7,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-8,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V06-mjp-9,,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5-V07-mjp-1,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-10,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-11,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-12,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-13,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-14,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-15,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-16,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-17,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-18,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-2,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-3,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-4,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-5,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-6,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-7,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-8,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V07-mjp-9,,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5-V08-mjp-1,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-10,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-11,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-12,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-13,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-14,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-15,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-16,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-17,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-18,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-2,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-3,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-4,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-5,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-6,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-7,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V08-mjp-8,,,Bairnsdale Via Traralgon & Sale,3,A57FB2,FFFFFF
+5-V08-mjp-9,,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5-V09-mjp-1,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-10,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-11,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-12,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-13,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-14,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-15,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-16,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-17,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-18,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-2,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-3,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-4,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-5,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-6,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-7,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-8,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V09-mjp-9,,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V10-mjp-1,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-10,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-11,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-12,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-13,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-14,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-15,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-16,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-17,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-18,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-2,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-3,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-4,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-5,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-6,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-7,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-8,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V10-mjp-9,,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5-V11-mjp-1,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-10,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-11,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-12,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-13,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-14,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-2,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-3,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-4,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-5,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-6,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V11-mjp-8,,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5-V12-mjp-1,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-10,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-11,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-13,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-14,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-17,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-18,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-2,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-3,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-4,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-5,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-6,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-7,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-8,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V12-mjp-9,,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5-V13-mjp-1,,,Canberra Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-10,,,Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-11,,,Canberra Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-12,,,Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-13,,,Canberra - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-14,,,Canberra - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-2,,,Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-3,,,Canberra - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-5,,,Canberra - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-6,,,Canberra Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-7,,,Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5-V13-mjp-9,,,Canberra Via Bairnsdale,3,A57FB2,FFFFFF
+5-V14-mjp-1,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-10,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-11,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-12,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-13,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-14,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-15,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-16,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-17,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-18,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-2,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-3,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-4,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-5,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-6,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-7,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-8,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V14-mjp-9,,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5-V15-mjp-1,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-10,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-11,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-12,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-13,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-14,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-15,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-16,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-17,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-18,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-2,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-3,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-4,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-5,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-6,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-7,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-8,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V15-mjp-9,,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5-V16-mjp-1,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-10,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-11,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-12,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-13,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-14,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-15,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-16,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-2,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-3,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-4,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-5,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-6,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-7,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-8,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V16-mjp-9,,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5-V17-mjp-1,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-10,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-11,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-12,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-14,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-15,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-16,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-2,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-3,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-4,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-5,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-6,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-7,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-8,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V17-mjp-9,,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5-V18-mjp-1,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-10,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-11,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-12,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-13,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-14,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-15,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-16,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-17,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-18,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-2,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-3,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-4,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-5,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-6,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-7,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-8,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V18-mjp-9,,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5-V19-mjp-1,,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5-V19-mjp-12,,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5-V19-mjp-14,,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5-V19-mjp-4,,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5-V19-mjp-8,,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5-V20-mjp-1,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-10,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-11,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-12,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-13,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-14,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-15,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-16,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-17,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-18,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-2,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-3,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-4,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-5,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-6,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-7,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-8,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V20-mjp-9,,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5-V22-mjp-1,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-10,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-11,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-12,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-13,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-14,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-2,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-3,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-4,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-5,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-6,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-7,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-8,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V22-mjp-9,,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5-V23-mjp-1,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-10,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-11,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-12,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-13,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-14,,,Geelong Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-16,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-17,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-18,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-2,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-3,,,Geelong Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-4,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-5,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-6,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-7,,,Geelong Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-8,,,Geelong Via Geelong,3,A57FB2,FFFFFF
+5-V23-mjp-9,,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5-V24-mjp-1,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-10,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-11,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-12,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-13,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-14,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-15,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-16,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-17,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-18,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-2,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-3,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-4,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-5,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-6,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-7,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-8,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V24-mjp-9,,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5-V25-mjp-1,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-10,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-11,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-12,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-13,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-14,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-15,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-16,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-17,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-18,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-2,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-3,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-4,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-5,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-6,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-7,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-8,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V25-mjp-9,,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5-V27-mjp-1,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-10,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-11,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-12,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-13,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-14,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-15,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-16,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-17,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-18,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-2,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-3,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-4,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-5,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-6,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-7,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-8,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V27-mjp-9,,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5-V28-mjp-1,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-10,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-11,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-12,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-13,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-14,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-15,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-16,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-17,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-18,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-2,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-3,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-4,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-5,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-6,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-7,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-8,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V28-mjp-9,,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5-V29-mjp-1,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-10,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-11,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-12,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-13,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-14,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-15,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-16,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-17,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-18,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-2,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-3,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-4,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-5,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-6,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-7,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-8,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V29-mjp-9,,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5-V30-mjp-1,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-10,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-11,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-12,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-13,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-14,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-15,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-16,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-17,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-18,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-2,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-3,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-4,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-5,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-6,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-7,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-8,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V30-mjp-9,,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5-V31-mjp-1,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-10,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-11,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-12,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-13,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-14,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-15,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-16,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-17,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-18,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-2,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-3,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-4,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-5,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-6,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-7,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-8,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V31-mjp-9,,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5-V32-mjp-1,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-10,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-11,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-12,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-14,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-15,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-16,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-2,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-3,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-4,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-5,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-6,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-7,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-8,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V32-mjp-9,,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5-V34-mjp-1,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-10,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-11,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-12,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-13,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-14,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-15,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-16,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-17,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-18,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-2,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-3,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-4,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-5,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-6,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-7,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-8,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V34-mjp-9,,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5-V35-mjp-1,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-10,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-11,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-12,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-13,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-14,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-15,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-16,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-17,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-18,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-2,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-3,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-4,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-5,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-6,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-7,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-8,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V35-mjp-9,,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5-V36-mjp-1,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-10,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-11,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-12,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-13,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-14,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-15,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-16,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-17,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-18,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-2,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-3,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-4,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-5,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-6,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-7,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-8,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V36-mjp-9,,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5-V37-mjp-1,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-10,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-11,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-12,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-13,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-14,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-15,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-16,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-17,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-18,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-2,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-3,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-4,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-5,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-6,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-7,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-8,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V37-mjp-9,,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5-V38-mjp-1,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-10,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-11,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-12,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-13,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-14,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-15,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-16,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-2,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-3,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-4,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-5,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-6,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-7,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-8,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V38-mjp-9,,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5-V39-mjp-1,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-10,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-11,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-12,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-13,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-14,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-15,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-16,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-2,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-3,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-4,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-5,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-6,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-7,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-8,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V39-mjp-9,,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5-V40-mjp-13,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-14,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-16,,,Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-17,,,Melbourne Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-18,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-2,,,Melbourne Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-3,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-4,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-5,,,Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-6,,,Melbourne Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-7,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V40-mjp-8,,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5-V41-mjp-1,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-10,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-11,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-12,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-13,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-14,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-15,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-16,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-17,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-18,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-2,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-3,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-4,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-5,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-6,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-7,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-8,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V41-mjp-9,,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5-V43-mjp-1,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-10,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-11,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-12,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-13,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-14,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-15,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-16,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-17,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-18,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-2,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-3,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-4,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-5,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-6,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-7,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-8,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V43-mjp-9,,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5-V45-mjp-1,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-10,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-11,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-12,,,Melbourne Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-13,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-15,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-16,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-17,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-2,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-3,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-4,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-5,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-6,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-7,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-8,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V45-mjp-9,,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5-V47-mjp-1,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-10,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-11,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-12,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-13,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-14,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-15,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-16,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-17,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-18,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-2,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-3,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-4,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-5,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-6,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-7,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-8,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V47-mjp-9,,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5-V48-mjp-1,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-10,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-11,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-12,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-13,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-14,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-16,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-17,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-18,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-2,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-3,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-4,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-5,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-6,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-7,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-8,,,"Traralgon Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V48-mjp-9,,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5-V50-mjp-1,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-10,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-11,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-12,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-13,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-14,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-15,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-16,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-17,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-18,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-2,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-3,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-4,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-5,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-6,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-7,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-8,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V50-mjp-9,,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5-V51-mjp-1,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-10,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-12,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-13,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-14,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-2,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-3,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-4,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-5,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-6,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-7,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-8,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V51-mjp-9,,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5-V52-mjp-1,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-10,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-11,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-12,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-13,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-14,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-15,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-16,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-17,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-18,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-2,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-3,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-4,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-5,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-6,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-7,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-8,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5-V52-mjp-9,,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF

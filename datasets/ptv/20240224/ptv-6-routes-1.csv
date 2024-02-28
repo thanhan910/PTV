@@ -1,0 +1,339 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+6-10B-mjp-1,,10,Alfredton - Ballarat Station Via Wendouree,3,FF8200,FFFFFF
+6-11B-mjp-1,,11,Wendouree Station - Ballarat Station Via Howitt St,3,FF8200,FFFFFF
+6-12B-mjp-1,,12,Wendouree Station - Ballarat Station Via Forest St,3,FF8200,FFFFFF
+6-13B-mjp-1,,13,Invermay Park - Ballarat Station Via Invermay Park,3,FF8200,FFFFFF
+6-13-mjp-1,,13,Paynesville - Bairnsdale Via Paynesville,3,FF8200,FFFFFF
+6-14B-mjp-1,,14,Black Hill - Ballarat Station Via Black Hill,3,FF8200,FFFFFF
+6-14-mjp-1,,14,"Omeo - Bairnsdale Via Bruthen, Swifts Creek",3,FF8200,FFFFFF
+6-209-mjp-1,,3,Wurruk - Sale Via Princes Highway,3,FF8200,FFFFFF
+6-20B-mjp-1,,20,Canadian - Ballarat Station Via Canadian,3,FF8200,FFFFFF
+6-21B-mjp-1,,21,Buninyong - Ballarat Station Via Federation University,3,FF8200,FFFFFF
+6-22B-mjp-1,,22,Federation University - Ballarat Station Via Sebastopol,3,FF8200,FFFFFF
+6-23B-mjp-1,,23,Mount Pleasant - Ballarat Station Via Mount Pleasant,3,FF8200,FFFFFF
+6-24B-mjp-1,,24,Sebastopol - Ballarat Station Via Sebastopol,3,FF8200,FFFFFF
+6-25B-mjp-1,,25,Delacombe - Ballarat Station Via Delacombe,3,FF8200,FFFFFF
+6-26B-mjp-1,,26,Alfredton - Ballarat Station Via Alfredton,3,FF8200,FFFFFF
+6-298-mjp-1,,2,Gippsland Regional Sport Complex - Sale Via Gippsland Regional Sport Complex,3,FF8200,FFFFFF
+6-30B-mjp-1,,30,Creswick - Ballarat Station Via Creswick,3,FF8200,FFFFFF
+6-31B-mjp-1,,31,Miners rest - Wendouree Station Via Miners rest,3,FF8200,FFFFFF
+6-40b-mjp-1,,211/311/312,Merbein - MilduraCity Via Eleventh St,3,FF8200,FFFFFF
+6-473-mjp-1,,473,"Gisborne Station Via Gisborne Town Centre, Fersfield Rd",3,FF8200,FFFFFF
+6-474-mjp-1,,474,Gisborne Railway Station Via Gisborne Railway Station,3,FF8200,FFFFFF
+6-54n-mjp-1,,,"Traralgon - Wonthaggi Via Inverloch, Leongatha, Mirboo Nth",3,FF8200,FFFFFF
+6-589-mjp-1,,1,Sale Hospital - Sale Via Port of Sale,3,FF8200,FFFFFF
+6-73-mjp-1,,1,Bairnsdale Via West Bairnsdale,3,FF8200,FFFFFF
+6-855-mjp-1,,,Yarram - Traralgon Via Gormandale,3,FF8200,FFFFFF
+6-858-mjp-1,,,Wangaratta - Myrtleford Via Wangaratta,3,FF8200,FFFFFF
+6-866-mjp-1,,AW,Albury Via Gateway Island,3,FF8200,FFFFFF
+6-867-mjp-1,,F,Wodonga Via West Wodonga,3,FF8200,FFFFFF
+6-868-mjp-1,,G,Wodonga Via Gayview Drive,3,FF8200,FFFFFF
+6-869-mjp-1,,T,TAFE Via West Wodonga,3,FF8200,FFFFFF
+6-86N-mjp-1,,,"Kaniva - Horsham Via Dimboola, Nhill",3,FF8200,FFFFFF
+6-872-mjp-1,,O,West Wodonga Via West Wodonga,3,FF8200,FFFFFF
+6-873-mjp-1,,C,Cambourne Park Via Cambourne Park,3,FF8200,FFFFFF
+6-874-mjp-1,,WS,Wodonga Via Wodonga,3,FF8200,FFFFFF
+6-875-mjp-1,,B,Baranduda Via Baranduda,3,FF8200,FFFFFF
+6-876-mjp-1,,150,Albury Via Birallee Shopping Centre,3,FF8200,FFFFFF
+6-877-mjp-1,,160,Albury Via Birallee Shopping Centre,3,FF8200,FFFFFF
+6-89x-mjp-1,,,Daylesford Via Hepburn Springs,3,FF8200,FFFFFF
+6-901-mjp-1,,NSW901,West Albury Via West Albury,3,FF8200,FFFFFF
+6-902-mjp-1,,NSW902,South Albury Via South Albury,3,FF8200,FFFFFF
+6-903-mjp-1,,NSW903,East Albury Via Base Hospital,3,FF8200,FFFFFF
+6-904-mjp-1,,2,"Rodney Park Via Rumbalara Co-Op, Echuca Rd",3,FF8200,FFFFFF
+6-906-mjp-1,,NSW906,Lavington - Albury Via North Albury & Springdale Heights,3,FF8200,FFFFFF
+6-907-mjp-1,,NSW907,"Quicks Hill - Albury Via TAFE, Glenroy & Lavington",3,FF8200,FFFFFF
+6-908-mjp-1,,NSW908,"Thurgoona - Albury Via North Albury, Lavington & University",3,FF8200,FFFFFF
+6-909-mjp-1,,NSW909,Thurgoona - Albury Via Hospital & Airport,3,FF8200,FFFFFF
+6-920-mjp-1,,250/300,Merbein - Mildura City Via Seventeenth St,3,FF8200,FFFFFF
+6-921-mjp-1,,100/200,Red Cliffs - Mildura City Via Red Cliffs,3,FF8200,FFFFFF
+6-935-mjp-1,,,Korumburra - Korumburra (via King St-Commercial St) Via Korumburra,3,FF8200,FFFFFF
+6-946-mjp-1,,South - Schools AM,Swan Hill Via Swan Hill,3,FF8200,FFFFFF
+6-947-mjp-1,,,Stratford - Sale Via Stratford,3,FF8200,FFFFFF
+6-949-mjp-1,,South - Schools PM,Swan Hill South Via Swan Hill South,3,FF8200,FFFFFF
+6-959-mjp-1,,,"Chiltern - Wangaratta Via Springhurst, Rutherglen",3,FF8200,FFFFFF
+6-960-mjp-1,,,"Wangaratta - Yarrawonga Via Peechelba, Killawarra",3,FF8200,FFFFFF
+6-973-mjp-1,,,Leongatha - Wonthaggi Via Inverloch,3,FF8200,FFFFFF
+6-976-mjp-1,,,Wonthaggi - Cape Paterson Via Wonthaggi,3,FF8200,FFFFFF
+6-977-mjp-1,,,"Wonthaggi - Coronet Bay/Corinella Via Corinella, Anderson",3,FF8200,FFFFFF
+6-984-mjp-1,,1,Albury - Corowa Via Howlong,3,FF8200,FFFFFF
+6-992-mjp-1,,1,Hamilton (Route 1) Via Coleraine Rd,3,FF8200,FFFFFF
+6-994-mjp-1,,,"Mortlake - Warrnambool Via Ballangeich, Ellerslie",3,FF8200,FFFFFF
+6-99x-mjp-1,,,Mount Egerton Via Gordon,3,FF8200,FFFFFF
+6-99y-mjp-1,,,Hepburn Springs - Ballan Via Daylesford,3,FF8200,FFFFFF
+6-a18-mjp-1,,12,Gelantipy - Bairnsdale Via Lakes Entrance,3,FF8200,FFFFFF
+6-a19-mjp-1,,4,Sale Station Via Reeve Street,3,FF8200,FFFFFF
+6-a20-mjp-1,,401,West End - Wangaratta Via West End,3,FF8200,FFFFFF
+6-a21-mjp-1,,402,Yarrunga - Wangaratta Via Murdoch Rd,3,FF8200,FFFFFF
+6-a22-mjp-1,,403,Yarrawonga Road - Wangaratta Via Yarrawonga Road,3,FF8200,FFFFFF
+6-a23-mjp-1,,,Albury/Wodonga - Corryong Via Walwa,3,FF8200,FFFFFF
+6-a25-mjp-10,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-11,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-12,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-13,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-16,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-17,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-18,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-2,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-3,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-5,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-6,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-7,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a25-mjp-9,,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6-a28-mjp-1,,tv,Tooleybuc - Swan Hill Via Nyah West,3,FF8200,FFFFFF
+6-a29-mjp-1,,,Bendigo - Ballarat Via Maryborough,3,FF8200,FFFFFF
+6-a30-mjp-1,,7,Loch Sport - Sale Via Longford,3,FF8200,FFFFFF
+6-a31-mjp-1,,7,"Beechworth - Albury Via Wodonga, Yackandandah",3,FF8200,FFFFFF
+6-a32-mjp-1,,2,Bairnsdale Via East Bairnsdale,3,FF8200,FFFFFF
+6-a33-mjp-1,,3,Bairnsdale Via Wy Yung,3,FF8200,FFFFFF
+6-a34-mjp-1,,,"Fountain Gate - Cowes Via San Remo, Pakenham",3,FF8200,FFFFFF
+6-a36-mjp-1,,1,Westwood Park - Echuca Via Echuca South,3,FF8200,FFFFFF
+6-a37-mjp-1,,2,Echuca Via Echuca,3,FF8200,FFFFFF
+6-a38-mjp-1,,3,Echuca Via Moama,3,FF8200,FFFFFF
+6-a39-mjp-1,,3,"Mooroopna Park Via Echuca Rd, Gange St",3,FF8200,FFFFFF
+6-a40-mjp-1,,1,Shepparton - Mooroopna Via McLennan St,3,FF8200,FFFFFF
+6-a42-mjp-1,,1,Swan Hill North Via Swan Hill North,3,FF8200,FFFFFF
+6-a43-mjp-1,,2,Swan Hill South Via Swan Hill South,3,FF8200,FFFFFF
+6-a44-mjp-1,,,Albury - Myrtleford Via Wodonga,3,FF8200,FFFFFF
+6-a47-mjp-1,,,"Cowes - Wonthaggi Via Anderson, San Remo",3,FF8200,FFFFFF
+6-a48-mjp-1,,North,Wonthaggi Via North Wonthaggi,3,FF8200,FFFFFF
+6-a49-mjp-1,,South,Wonthaggi Via South Wonthaggi,3,FF8200,FFFFFF
+6-a50-mjp-1,,,Alvie - Colac Via Coragulac,3,FF8200,FFFFFF
+6-alb-mjp-1,,,Ararat - Lake Bolac Via Willaura,3,FF8200,FFFFFF
+6-alc-mjp-1,,,"Corowa - Albury Via Barnawartha, Rutherglen",3,FF8200,FFFFFF
+6-ALX-mjp-1,,,"Marysville - Alexandra Via Taggerty, Buxton",3,FF8200,FFFFFF
+6-Apr-mjp-1,,,Hopkins Correctional Centre - Ararat Via Hopkins Correctional Centre,3,FF8200,FFFFFF
+6-Ar1-mjp-1,,1,"Ararat West Via Brewster St, Lowe St",3,FF8200,FFFFFF
+6-Ar2-mjp-1,,2,"Ararat South Via Burke Rd, Churchill Av",3,FF8200,FFFFFF
+6-Ar3-mjp-1,,3,"Ararat North Via Baird St, NMIT, Alfred St",3,FF8200,FFFFFF
+6-ArM-mjp-1,,,Maryborough - Ararat Via Avoca,3,FF8200,FFFFFF
+6-ArS-mjp-1,,,Ararat - Stawell Via Great Western,3,FF8200,FFFFFF
+6-B05-mjp-1,,5,Kangaroo Flat - Huntly Via Bendigo Station,3,FF8200,FFFFFF
+6-B15-mjp-1,,15,Brown Hill - Ballarat Station Via Brown Hill,3,FF8200,FFFFFF
+6-B50-mjp-1,,50,Epsom Station - Bendigo Station Via Goynes Rd,3,FF8200,FFFFFF
+6-B51-mjp-1,,51,Eaglehawk - Bendigo Station Via Jackass Flat,3,FF8200,FFFFFF
+6-B52-mjp-1,,52,Eaglehawk - Bendigo Station Via Arnold St,3,FF8200,FFFFFF
+6-B53-mjp-1,,53,Eaglehawk - Bendigo Station Via Eaglehawk Rd,3,FF8200,FFFFFF
+6-B54-mjp-1,,54,Maiden Gully - Bendigo Station Via Calder Hwy,3,FF8200,FFFFFF
+6-B55-mjp-1,,55,Kangaroo Flat - Bendigo Station Via Golden Square,3,FF8200,FFFFFF
+6-B60-mjp-1,,60,East Bendigo - Bendigo Station Via East Bendigo,3,FF8200,FFFFFF
+6-B61-mjp-1,,61,La Trobe University - Bendigo Station Via Strathdale,3,FF8200,FFFFFF
+6-B62-mjp-1,,62,Spring Gully - Bendigo Station Via La Trobe University,3,FF8200,FFFFFF
+6-B63-mjp-1,,63,La Trobe University - Bendigo Hospital Via Bendigo Station,3,FF8200,FFFFFF
+6-B64-mjp-1,,64,Golden Square - Bendigo Station Via Quarry Hill,3,FF8200,FFFFFF
+6-B65-mjp-1,,65,Spring Gully - Bendigo Station Via Carpenter St,3,FF8200,FFFFFF
+6-B70-mjp-1,,70,Strathfieldsaye - Bendigo Station Via Strathfieldsaye,3,FF8200,FFFFFF
+6-B71-mjp-1,,71,"Strathfieldsaye SC (Loop) Via Strathfieldsaye, Junortoun",3,FF8200,FFFFFF
+6-BGN-mjp-1,,,Goornong - Bendigo Via Goornong,3,FF8200,FFFFFF
+6-BM8-mjp-1,,Barmah 8,Barmah - Echuca Via Barmah,3,FF8200,FFFFFF
+6-BNI-mjp-1,,1,Benalla West Via Benalla West,3,FF8200,FFFFFF
+6-BNZ-mjp-1,,2,Benalla East Via Benalla East,3,FF8200,FFFFFF
+6-Bor-mjp-1,,,"Bendigo - Boort Via Wedderburn, Inglewood",3,FF8200,FFFFFF
+6-Bx3-mjp-1,,433,Hillview Estate - Bacchus Marsh Via Bacchus Marsh Station,3,FF8200,FFFFFF
+6-Bx4-mjp-1,,434,Bacchus Marsh Station - Telford Park Via Bacchus Marsh,3,FF8200,FFFFFF
+6-Bx5-mjp-1,,435,Bacchus Marsh Station - Darley Via Bacchus Marsh,3,FF8200,FFFFFF
+6-BxW-mjp-1,,,"Woomelang - Bendigo Via Wedderburn, Charlton, Birchip",3,FF8200,FFFFFF
+6-BxW-mjp-2,,,"Woomelang - Bendigo Via Wedderburn, Charlton, Birchip",3,FF8200,FFFFFF
+6-BxW-mjp-3,,,"Woomelang - Bendigo Via Wedderburn, Charlton, Birchip",3,FF8200,FFFFFF
+6-c06-mjp-1,,6,Chewton - Castlemaine Via Loddon Prison,3,FF8200,FFFFFF
+6-C27-mjp-1,,C27,Smythesdale - Delacombe Via Haddon,3,FF8200,FFFFFF
+6-cc2-mjp-1,,2,Colac - Colac West Via Fyans St,3,FF8200,FFFFFF
+6-CL1-mjp-1,,1,Colac - Elliminyt Via Lavers Hill Rd,3,FF8200,FFFFFF
+6-CL3-mjp-1,,3,Colac East - Colac Via Church St,3,FF8200,FFFFFF
+6-CMO-mjp-1,,,"Marengo - Colac Via Forrest, Skenes Creek, Apollo Bay",3,FF8200,FFFFFF
+6-cob-mjp-1,,,Cobram Via Cobram,3,FF8200,FFFFFF
+6-dpc-mjp-1,,,Deer Park Station - Caroline Springs Station Via Deer Park Station,3,FF8200,FFFFFF
+6-DWB-mjp-1,,Wangaratta-Bright,Bright - Wangaratta Via Bright,3,FF8200,FFFFFF
+6-Ec4-mjp-1,,4,Echuca - Cunningham Downs Retirement Village Via Echuca,3,FF8200,FFFFFF
+6-Ec5-mjp-1,,5,Echuca - 24 Lane Via Moama,3,FF8200,FFFFFF
+6-Eur-mjp-1,,,Euroa - Shepparton Via Kialla,3,FF8200,FFFFFF
+6-G01-mjp-1,,1,"Deakin University - North Shore Station Via Thompson Rd, Colac Rd",3,FF8200,FFFFFF
+6-G10-mjp-1,,10,Lara South - Lara Station Via Forest Rd,3,FF8200,FFFFFF
+6-G11-mjp-1,,11,Lara East - Lara Station Via Rennie St,3,FF8200,FFFFFF
+6-G12-mjp-1,,12,Lara West - Lara Station Via Lara West,3,FF8200,FFFFFF
+6-G19-mjp-1,,19,"Bannockburn - Geelong Station Via Batesford, Gheringhap",3,FF8200,FFFFFF
+6-G20-mjp-1,,20,Corio SC - Geelong Station Via Melbourne Rd,3,FF8200,FFFFFF
+6-G22-mjp-1,,22,Geelong Station - North Shore Station Via Anakie Rd,3,FF8200,FFFFFF
+6-G23-mjp-1,,23,"Corio SC - North Shore Via Station St, Rosewall",3,FF8200,FFFFFF
+6-G24-mjp-1,,24,"Geelong Station - North Geelong Station Via Herne Hill, Newtown",3,FF8200,FFFFFF
+6-G25-mjp-1,,25,"Bell Post Hill - Geelong Station Via Autumn St, McCurdy Rd",3,FF8200,FFFFFF
+6-G30-mjp-1,,30,Whittington - Geelong Station Via Newcomb,3,FF8200,FFFFFF
+6-G31-mjp-1,,31,St Albans Park - Geelong Station Via St Albans Park,3,FF8200,FFFFFF
+6-G32-mjp-1,,32,Leopold - Geelong Station Via Bellarine Hwy,3,FF8200,FFFFFF
+6-G40-mjp-1,,40,"Deakin University - Geelong Station Via Breakwater, Grovedale",3,FF8200,FFFFFF
+6-G41-mjp-1,,41,Deakin University - Geelong Station Via Grovedale,3,FF8200,FFFFFF
+6-G42-mjp-1,,42,Deakin University - Geelong Station Via South Valley Rd,3,FF8200,FFFFFF
+6-G43-mjp-1,,43,Deakin University - Geelong Station Via Highton,3,FF8200,FFFFFF
+6-G49-mjp-1,,49,Kalkee Ret Village - Belmont Village SC Via Kalkee Ret Village,3,FF8200,FFFFFF
+6-G50-mjp-1,,50,"Jan Juc - Geelong Station Via Marshall Station, Wombah Park",3,FF8200,FFFFFF
+6-G51-mjp-1,,51,"Jan Juc - Geelong Station Via Torquay, Marshall Station",3,FF8200,FFFFFF
+6-G55-mjp-1,,55,"Ocean Grove - Geelong Station Via Marshall Station, Barwon Heads",3,FF8200,FFFFFF
+6-G56-mjp-1,,56,"Queenscliff - Geelong Station Via Leopold, Ocean Grove",3,FF8200,FFFFFF
+6-G60-mjp-1,,60,St Leonards - Geelong Station Via Portarlington,3,FF8200,FFFFFF
+6-G61-mjp-1,,61,"Drysdale - Geelong Station Via Clifton Springs, Leopold",3,FF8200,FFFFFF
+6-GIV-mjp-1,,,Inverleigh - Corio St/Moorabool St (Geelong) Via Fyansford,3,FF8200,FFFFFF
+6-gld-mjp-1,,Goldrush,Sovereign Hill - Ballarat Station Via Sovereign Hill,3,FF8200,FFFFFF
+6-gvc-mjp-1,,,Grantville - Coronet Bay Via Grantville,3,FF8200,FFFFFF
+6-GVL-mjp-1,,101,"Geelong - Apollo Bay Via Lorne, Torquay",3,FF8200,FFFFFF
+6-H46-mjp-1,,H46,Wangaratta - Glenrowan Via Wangaratta,3,FF8200,FFFFFF
+6-HA2-mjp-1,,2,Hamilton (Route 2) Via Kent Rd,3,FF8200,FFFFFF
+6-HA3-mjp-1,,3,Hamilton (Route 3) Via Ballarat Rd,3,FF8200,FFFFFF
+6-hea-mjp-1,,,"Heathcote - Bendigo Via Junortoun, Axedale, Knowsley",3,FF8200,FFFFFF
+6-hep-mjp-1,,,Creswick - Hepburn Via Daylesford,3,FF8200,FFFFFF
+6-Hpt-mjp-1,,,Penshurst - Hamilton Via Tarrington,3,FF8200,FFFFFF
+6-HR1-mjp-1,,1,Shirley Street - Natimuk Road Via Town Centre,3,FF8200,FFFFFF
+6-HR2-mjp-1,,2,"Shirley Street - Natimuk Road Via Town Centre, Hospital",3,FF8200,FFFFFF
+6-HR3-mjp-1,,3,South Bank - Wawunna Road Via Town Centre,3,FF8200,FFFFFF
+6-HR4-mjp-1,,4,Haven - Horsham Via Haven,3,FF8200,FFFFFF
+6-HR5-mjp-1,,5,Horsham Station - Roberts Ave Via Horsham Station,3,FF8200,FFFFFF
+6-KeE-mjp-1,,,Kerang - Echuca Via Kerang,3,FF8200,FFFFFF
+6-KM1-mjp-1,,,Kilmore East Railway Station - Kilmore Via Kilmore East Railway Station,3,FF8200,FFFFFF
+6-KWR-mjp-1,,,Koo-Wee-Rup - Pakenham Via Koo-Wee-Rup,3,FF8200,FFFFFF
+6-KY1-mjp-1,,1,Kyneton Town Centre - Kyneton Station Via Kyneton Town Centre,3,FF8200,FFFFFF
+6-KY2-mjp-1,,2,Kyneton Station - Kyneton Town Centre Via Kyneton Station,3,FF8200,FFFFFF
+6-KY3-mjp-1,,3,Kyneton Town Centre - Kyneton Station Via Kyneton Town Centre,3,FF8200,FFFFFF
+6-KY4-mjp-1,,4,Kyneton Town Centre - Trentham Via Kyneton Town Centre,3,FF8200,FFFFFF
+6-Kym-mjp-1,,,Kyneton Town Centre - Malmsbury Via Kyneton Town Centre,3,FF8200,FFFFFF
+6-L01-mjp-1,,1,Moe - Traralgon Via Morwell,3,FF8200,FFFFFF
+6-L02-mjp-1,,2,Churchill - Morwell Via Churchill,3,FF8200,FFFFFF
+6-L03-mjp-1,,3,Churchill - Traralgon Via Churchill,3,FF8200,FFFFFF
+6-L04-mjp-1,,4,Boolarra - Churchill Via Yinnar,3,FF8200,FFFFFF
+6-L05-mjp-1,,5,"Moe - Traralgon Via Tyers, Yallourn Nth",3,FF8200,FFFFFF
+6-L06-mjp-1,,6,Traralgon South Via Traralgon South,3,FF8200,FFFFFF
+6-L07-mjp-1,,7,"Churchill - Traralgon Via Hazelwood Nth, Federation University",3,FF8200,FFFFFF
+6-L08-mjp-1,,8,Moe - Traralgon Via Morwell,3,FF8200,FFFFFF
+6-L09-mjp-1,,9,Churchill - Traralgon Via Churchill,3,FF8200,FFFFFF
+6-L11-mjp-1,,11,Moe West Via Moe West,3,FF8200,FFFFFF
+6-L12-mjp-1,,12,Moe South Via Moe South,3,FF8200,FFFFFF
+6-L13-mjp-1,,13,Moe North Via Moe North,3,FF8200,FFFFFF
+6-L14-mjp-1,,14,Moe Via Old Sale Rd,3,FF8200,FFFFFF
+6-L15-mjp-1,,15,Moe Via Dinwoodie Dr,3,FF8200,FFFFFF
+6-L20-mjp-1,,20,Morwell South Via Morwell South,3,FF8200,FFFFFF
+6-L21-mjp-1,,21,Morwell - Mid Valley SC Via Morwell,3,FF8200,FFFFFF
+6-L22-mjp-1,,22,Morwell - Mid Valley SC Via Hourigan Rd,3,FF8200,FFFFFF
+6-L30-mjp-1,,30,Churchill Town Service Via Churchill Town Service,3,FF8200,FFFFFF
+6-L40-mjp-1,,40,Traralgon Plaza SC Via Cross's Rd,3,FF8200,FFFFFF
+6-L41-mjp-1,,41,Traralgon West Via Traralgon West,3,FF8200,FFFFFF
+6-L42-mjp-1,,42,Southside Via Southside,3,FF8200,FFFFFF
+6-L43-mjp-1,,43,Traralgon East Via Traralgon East,3,FF8200,FFFFFF
+6-L44-mjp-1,,44,Traralgon Plaza SC Via Ellavale Dr,3,FF8200,FFFFFF
+6-L45-mjp-1,,45,Traralgon North Via Traralgon North,3,FF8200,FFFFFF
+6-La1-mjp-1,,1,Lakes Entrance - Kalimna Via Lakes Entrance,3,FF8200,FFFFFF
+6-La2-mjp-1,,2,Lakes Entrance - Lakes Entrance (North) Via Lakes Entrance,3,FF8200,FFFFFF
+6-La3-mjp-1,,3,Lakes Entrance - Lakes Entrance (East) Via Lakes Entrance,3,FF8200,FFFFFF
+6-LcS-mjp-1,,,Lancefield - Sunbury Via Lancefield,3,FF8200,FFFFFF
+6-LGs-mjp-1,,,Lancefield -  Gisborne Town Centre Via Lancefield,3,FF8200,FFFFFF
+6-M40-mjp-1,,400,Mildura Central SC Via East Mildura,3,FF8200,FFFFFF
+6-M41-mjp-1,,401,Mildura City Via East Mildura,3,FF8200,FFFFFF
+6-M50-mjp-1,,500,Mildura Central SC Via West Mildura,3,FF8200,FFFFFF
+6-M51-mjp-1,,501,Mildura City Via West Mildura,3,FF8200,FFFFFF
+6-M60-mjp-1,,600,Mildura Central SC Via Mildura Central SC,3,FF8200,FFFFFF
+6-M61-mjp-1,,601,Mildura Central SC Via Mildura South,3,FF8200,FFFFFF
+6-M62-mjp-1,,602,Mildura City Via Mildura City,3,FF8200,FFFFFF
+6-Ma1-mjp-1,,,Glassford Street - Maffra Post Office Via Maffra Hospital,3,FF8200,FFFFFF
+6-Mab-mjp-1,,,Maryborough - Maryborough Station Via Maryborough,3,FF8200,FFFFFF
+6-mal-mjp-1,,,Genoa - Mallacoota Via Gipsy Point,3,FF8200,FFFFFF
+6-MB3-mjp-1,,3,Pascoe - Maryborough Via Loch St,3,FF8200,FFFFFF
+6-MB4-mjp-1,,4,Maryborough Education Centre - Maryborough Via Gladstone St,3,FF8200,FFFFFF
+6-MiS-mjp-1,,,Mildura - Sea Lake Via Ouyen,3,FF8200,FFFFFF
+6-MLH-mjp-1,,,"Horsham - Mildura Via Ouyen, Warracknabeal",3,FF8200,FFFFFF
+6-MtB-mjp-1,,,"Mt Beauty - Albury Via Baranduda, Kergunya, Tawonga South",3,FF8200,FFFFFF
+6-MtE-mjp-1,,,Mt Egerton - Ballarat Via Gordon,3,FF8200,FFFFFF
+6-MUR-mjp-1,,,Rupanyup Via Rupanyup,3,FF8200,FFFFFF
+6-Mx1-mjp-1,,1,Hedges - Maryborough Via Derby Rd,3,FF8200,FFFFFF
+6-Mx2-mjp-1,,2,Princes Park/Whirrakee - Maryborough Via Holyrood St,3,FF8200,FFFFFF
+6-Nar-mjp-1,,,"Naracoorte - Horsham Via Natimuk, Goroke, Edenhope",3,FF8200,FFFFFF
+6-ome-mjp-2,,,Bright - Omeo Via Hotham Heights,3,FF8200,FFFFFF
+6-Ouy-mjp-1,,,Ouyen - Pinnaroo Via Mallee Hwy,3,FF8200,FFFFFF
+6-PT1-mjp-1,,1,Portland Via Portland,3,FF8200,FFFFFF
+6-PT2-mjp-1,,2,Portland Via Portland,3,FF8200,FFFFFF
+6-R01-mjp-1,,,Restdown Retirement Village Via Restdown Retirement Village,3,FF8200,FFFFFF
+6-R11-mjp-1,,,"Donald - Horsham Via Murtoa, Rupanyup, Minyip",3,FF8200,FFFFFF
+6-R12-mjp-1,,,Swan Hill - Sea Lake Via Lake Boga or Ultima,3,FF8200,FFFFFF
+6-R13-mjp-1,,,Birchip - Horsham Via Warracknabeal,3,FF8200,FFFFFF
+6-R14-mjp-1,,,"Hopetoun - Horsham Via Dimboola, Rainbow",3,FF8200,FFFFFF
+6-R21-mjp-1,,,Robinvale - Mildura Via Euston,3,FF8200,FFFFFF
+6-R22-mjp-1,,,"Ballarat - Stawell Via Ararat, Beaufort",3,FF8200,FFFFFF
+6-R30-mjp-1,,5,"Taradale - Castlemaine Via Chewton, Elphinstone",3,FF8200,FFFFFF
+6-R36-mjp-1,,3,Castlemaine - Harcourt Via Castlemaine,3,FF8200,FFFFFF
+6-R37-mjp-1,,2,Castlemaine Via Castlemaine Hospital,3,FF8200,FFFFFF
+6-R53-mjp-1,,,Cheshunt - Wangaratta Via Wangaratta - Whitfield Rd,3,FF8200,FFFFFF
+6-R54-mjp-1,,Dudley,Wonthaggi Via Dudley,3,FF8200,FFFFFF
+6-R95-mjp-1,,,Kyneton - Woodend Via Kyneton,3,FF8200,FFFFFF
+6-rok-mjp-1,,,"Ballarat - Rokewood Via Dereel, Enfield, Napoleons",3,FF8200,FFFFFF
+6-RsK-mjp-1,,,Kyneton Town Centre - Lancefield Via Kyneton Town Centre,3,FF8200,FFFFFF
+6-S01-mjp-1,,1,Stawell South Via Stawell South,3,FF8200,FFFFFF
+6-S02-mjp-1,,2,Stawell North Via Stawell North,3,FF8200,FFFFFF
+6-s05-mjp-1,,5,Glebe Estate - Sale Via Port of Sale,3,FF8200,FFFFFF
+6-s06-mjp-1,,6,Glenhaven Park - Sale Via Port of Sale,3,FF8200,FFFFFF
+6-SBO-mjp-1,,,Bendigo Station - Shepparton Station Via Bendigo Station,3,FF8200,FFFFFF
+6-Sea-mjp-1,,,Seaspray - Sale Via Longford,3,FF8200,FFFFFF
+6-Sh1-mjp-1,,1,Parkside Gardens Via GV Health,3,FF8200,FFFFFF
+6-Sh2-mjp-1,,2,Parkside Gardens Via The Boulevard,3,FF8200,FFFFFF
+6-Sh3-mjp-1,,3,GOTAFE William Orr Campus - Shepparton Via Golf Drive,3,FF8200,FFFFFF
+6-Sh4-mjp-1,,4,Shepparton - Connolly Park Via Shepparton,3,FF8200,FFFFFF
+6-Sh5-mjp-1,,5,Shepparton - Archer Via Shepparton,3,FF8200,FFFFFF
+6-Sh6-mjp-1,,6,Shepparton - South East Via Shepparton,3,FF8200,FFFFFF
+6-Sh7-mjp-1,,7,Shepparton - Marketplace Via Shepparton,3,FF8200,FFFFFF
+6-Sh8-mjp-1,,8,Shepparton - Kialla Via Shepparton,3,FF8200,FFFFFF
+6-Sh9-mjp-1,,9,Aquamoves - Shepparton Via Aquamoves,3,FF8200,FFFFFF
+6-StA-mjp-1,,,Stawell - St Arnaud Via Ararat,3,FF8200,FFFFFF
+6-StH-mjp-1,,,Stawell - Horsham Via Western Hwy,3,FF8200,FFFFFF
+6-StS-mjp-1,,,Stawell - St Arnaud Via Marnoo,3,FF8200,FFFFFF
+6-SY1-mjp-1,,1,Seymour East Via Seymour East,3,FF8200,FFFFFF
+6-SY2-mjp-1,,2,Seymour North Via Seymour North,3,FF8200,FFFFFF
+6-SY3-mjp-1,,3,Puckapunyal Via Puckapunyal,3,FF8200,FFFFFF
+6-SY4-mjp-1,,4,Seymour (AM peak) Via Seymour (AM peak),3,FF8200,FFFFFF
+6-SY5-mjp-1,,5,Seymour Nth East (PM peak) Via Seymour Nth East (PM peak),3,FF8200,FFFFFF
+6-Tal-mjp-1,,,"Tallangatta - Albury Via Killara, Bonegilla, Red Bluff",3,FF8200,FFFFFF
+6-Tim-mjp-1,,,Timboon - Camperdown Via Camperdown - Cobden Rd,3,FF8200,FFFFFF
+6-V63-mjp-1,,V63,Eildon - Alexandra Via Thornton,3,FF8200,FFFFFF
+6-W04-mjp-1,,404,Yarrunga - Wangaratta Via Mason St,3,FF8200,FFFFFF
+6-W12-mjp-1,,Wallan Link A,Wallan Station Link A Via Wallan Central,3,FF8200,FFFFFF
+6-w13-mjp-1,,,Moe - Albert St Via Moe - Albert St,3,FF8200,FFFFFF
+6-w19-mjp-1,,,Garfield Station Via Garfield Station,3,FF8200,FFFFFF
+6-w20-mjp-1,,,Moe Station Via Moe Station,3,FF8200,FFFFFF
+6-w28-mjp-1,,,Nar Nar Goon Station Via Nar Nar Goon Station,3,FF8200,FFFFFF
+6-w30-mjp-1,,,Traralgon Station Via Traralgon Station,3,FF8200,FFFFFF
+6-w31-mjp-1,,,Warragul Station Via Warragul Station,3,FF8200,FFFFFF
+6-w32-mjp-1,,,Newborough TAFE - Yallourn Via Newborough TAFE - Yallourn,3,FF8200,FFFFFF
+6-w33-mjp-1,,,Traralgon Plaza Via Traralgon Plaza,3,FF8200,FFFFFF
+6-w34-mjp-1,,,Moe Bus Interchange Via Moe Bus Interchange,3,FF8200,FFFFFF
+6-w35-mjp-1,,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6-w36-mjp-1,,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6-w37-mjp-1,,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6-w38-mjp-1,,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6-w39-mjp-1,,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6-w40-mjp-1,,,Garfield Station Via Garfield Station,3,FF8200,FFFFFF
+6-w41-mjp-1,,,Pakenham Station Via Pakenham Station,3,FF8200,FFFFFF
+6-w76-mjp-1,,,Warragul Station Via Warragul Station,3,FF8200,FFFFFF
+6-w77-mjp-1,,,Drouin Station Via Drouin Station,3,FF8200,FFFFFF
+6-W80-mjp-1,,80,Warragul South - Warragul Station Via Warragul South,3,FF8200,FFFFFF
+6-W81-mjp-1,,81,Warragul North - Warragul Station Via Warragul North,3,FF8200,FFFFFF
+6-W82-mjp-1,,82,Warragul North - Warragul Station Via Warragul North,3,FF8200,FFFFFF
+6-W83-mjp-1,,83,Warragul East - Warragul Station Via Warragul East,3,FF8200,FFFFFF
+6-W85-mjp-1,,85,Warragul Station - Drouin Station Via Warragul Station,3,FF8200,FFFFFF
+6-W86-mjp-1,,86,Drouin North - Drouin Station Via Drouin North,3,FF8200,FFFFFF
+6-W89-mjp-1,,89,Noojee - Warragul Station Via Buln Buln,3,FF8200,FFFFFF
+6-WGP-mjp-1,,,"Poowong East - Warragul Via Poowong, Athlone, Drouin",3,FF8200,FFFFFF
+6-WN1-mjp-1,,Wallan 1,Wallan Station - Wallan Central Via Wallan Station,3,FF8200,FFFFFF
+6-WN2-mjp-1,,Wallan 2,Wallan Station - Springridge Via Wallan Station,3,FF8200,FFFFFF
+6-WN3-mjp-1,,Wallan 3,Wallan Station - Wallara Waters Shuttle Via Wallan Station,3,FF8200,FFFFFF
+6-WoE-mjp-1,,E,East Wodonga Via East Wodonga,3,FF8200,FFFFFF
+6-woM-mjp-1,,M,Wodonga Via Mayfair Drive,3,FF8200,FFFFFF
+6-Woo-mjp-1,,,Woods Point - Mansfield Via Jamieson,3,FF8200,FFFFFF
+6-WoS-mjp-1,,S,South Wodonga Via South Wodonga,3,FF8200,FFFFFF
+6-WPC-mjp-1,,,Timboon - Warrnambool Via Port Campbell,3,FF8200,FFFFFF
+6-wr1-mjp-1,,1,Dennington - Warrnambool Via Dennington,3,FF8200,FFFFFF
+6-wr2-mjp-1,,2,Gateway Plaza - Warrnambool Via Centro,3,FF8200,FFFFFF
+6-wr3-mjp-1,,3,Deakin University - Warrnambool Via Deakin University,3,FF8200,FFFFFF
+6-wr4-mjp-1,,4,Tower Square - Warrnambool Via Tower Square,3,FF8200,FFFFFF
+6-wr5-mjp-1,,5,Lake Pertobe Loop Via Lake Pertobe Loop,3,FF8200,FFFFFF
+6-wr6-mjp-1,,6,Merrivale - Warrnambool Via Merrivale,3,FF8200,FFFFFF
+6-wr8-mjp-1,,8,Port Fairy - Warrnambool Via Port Fairy,3,FF8200,FFFFFF
+6-wr9-mjp-1,,9,Allansford - Warrnambool Via Allansford,3,FF8200,FFFFFF
+6-Wyc-mjp-1,,,Wycheproof - Swan Hill Via Lalbert,3,FF8200,FFFFFF
+6-x45-mjp-1,,45,Armstrong Creek - Waurn Ponds SC Via Waurn Ponds Station,3,FF8200,FFFFFF
+6-x89-mjp-1,,1,Castlemaine Via Campbells Creek,3,FF8200,FFFFFF
+6-xM4-mjp-1,,4,Maldon - Castlemaine Via Maldon,3,FF8200,FFFFFF
+6-YFR-mjp-1,,,Yarrawonga Via GP,3,FF8200,FFFFFF
