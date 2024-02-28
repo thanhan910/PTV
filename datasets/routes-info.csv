@@ -1,0 +1,834 @@
+opbranch,route_code,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,Ech,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,2,8F1A95,FFFFFF
+1,Sht,,Shepparton - Melbourne Via Seymour,2,8F1A95,FFFFFF
+1,V01,,Melbourne - Albury Via Seymour,2,8F1A95,FFFFFF
+1,V04,,Ararat - Melbourne Via Ballarat,2,8F1A95,FFFFFF
+1,V05,,Ballarat - Melbourne Via Melton,2,8F1A95,FFFFFF
+1,V08,,Melbourne - Bairnsdale Via Sale & Traralgon,2,8F1A95,FFFFFF
+1,V12,,Melbourne - Bendigo Via Sunbury,2,8F1A95,FFFFFF
+1,V23,,Geelong - Melbourne Via Geelong,2,8F1A95,FFFFFF
+1,V40,,Melbourne - Seymour Via Broadmeadows,2,8F1A95,FFFFFF
+1,V45,,Melbourne - Swan Hill Via Bendigo,2,8F1A95,FFFFFF
+1,V48,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",2,8F1A95,FFFFFF
+1,V51,,Warrnambool - Melbourne Via Geelong & Colac,2,8F1A95,FFFFFF
+1,my1,,Melbourne - Maryborough Via Ballarat,2,8F1A95,FFFFFF
+1,vPK,Pakenham,Pakenham - City Via Pakenham,2,8F1A95,FFFFFF
+10,GSR,Overland,Melbourne - Adelaide,2,0,FFFFFF
+11,SK4,,Frankston - Melbourne Airport,3,ED1C24,FFFFFF
+11,SKY,,City - Melbourne Airport,3,ED1C24,FFFFFF
+2,ALM,Alamein,Alamein - City (Flinders Street),2,152C6B,FFFFFF
+2,B31,Craigieburn,Craigieburn - City (Flinders Street),2,FFBE00,000000
+2,BEL,Belgrave,Belgrave - City (Flinders Street),2,152C6B,FFFFFF
+2,CRB,Cranbourne,Cranbourne - City (Flinders Street),2,279FD5,000000
+2,FKN,Frankston,Frankston - City (Flinders Street),2,028430,FFFFFF
+2,GLW,Glen Waverley,Glen Waverley - City (Flinders Street),2,152C6B,FFFFFF
+2,HBG,Hurstbridge,Hurstbridge - City (Flinders Street),2,BE1014,FFFFFF
+2,LIL,Lilydale,Lilydale - City (Flinders Street),2,152C6B,FFFFFF
+2,MER,Mernda,Mernda - City (Flinders Street),2,BE1014,FFFFFF
+2,PKM,Pakenham,Pakenham - City (Flinders Street),2,279FD5,000000
+2,SDM,Sandringham,Sandringham - City (Flinders Street),2,F178AF,000000
+2,SPT,Stony Point,Stony Point - Frankston,2,028430,FFFFFF
+2,SYM,Sunbury,Sunbury - City (Flinders Street),2,FFBE00,000000
+2,UFD,Upfield,Upfield - City (Flinders Street),2,FFBE00,000000
+2,WBE,Werribee,Werribee - City (Flinders Street),2,028430,FFFFFF
+2,WMN,Williamstown,Williamstown - City (Flinders Street),2,028430,FFFFFF
+2,ain,Flemington,Showgrounds/Flemington - Flinders Street,2,95979A,000000
+3,1,1,South Melbourne Beach - East Coburg,0,B5BD00,000000
+3,109,109,Port Melbourne - Box Hill,0,E87722,000000
+3,11,11,Victoria Harbour Docklands - West Preston,0,6ECEB2,000000
+3,12,12,St Kilda (Fitzroy St) - Victoria Gardens,0,007E92,FFFFFF
+3,16,16,Melbourne University - Kew via St Kilda Beach,0,FBD872,000000
+3,19,19,"Flinders Street Station, City - North Coburg",0,8A1B61,FFFFFF
+3,3,3,Melbourne University - East Malvern,0,8DC8E8,000000
+3,30,30,Central Pier Docklands - St Vincents Plaza,0,534F96,FFFFFF
+3,35,35,Clockwise - Clockwise,0,6B3529,FFFFFF
+3,48,48,Victoria Harbour Docklands - North Balwyn,0,333434,FFFFFF
+3,5,5,Melbourne University - Malvern (Burke Road),0,D50032,FFFFFF
+3,57,57,"Flinders Street Station, City - West Maribyrnong",0,00C1D5,000000
+3,58,58,Toorak - West Coburg,0,969696,FFFFFF
+3,59,59,"Flinders Street Station, City - Airport West",0,00653A,FFFFFF
+3,6,6,Moreland - Glen Iris,0,01426A,FFFFFF
+3,64,64,Melbourne University - East Brighton,0,00AB8E,FFFFFF
+3,67,67,Melbourne University - Carnegie,0,956C58,FFFFFF
+3,70,70,Waterfront City Docklands - Wattle Park,0,F59BBB,000000
+3,72,72,Melbourne University - Camberwell,0,9ABEAA,000000
+3,75,75,Central Pier Docklands - Vermont South,0,00A9E0,000000
+3,78,78,Balaclava via Prahran - North Richmond,0,A0A0D6,000000
+3,82,82,Moonee Ponds - Footscray,0,D2D755,000000
+3,86,86,Waterfront City Docklands - Bundoora RMIT,0,FFB500,000000
+3,96,96,St Kilda Beach - East Brunswick,0,C6007E,FFFFFF
+4,150,150,Tarneit Station - Williams Landing Station,3,FF8200,FFFFFF
+4,151,151,Tarneit Station - Williams Landing Station,3,FF8200,FFFFFF
+4,152,152,Williams Landing Station - Tarneit Station,3,FF8200,FFFFFF
+4,153,153,Werribee Station - Williams Landing Station,3,FF8200,FFFFFF
+4,160,160,Hoppers Crossing Station - Tarneit Station,3,FF8200,FFFFFF
+4,161,161,Werribee Station - Hoppers Crossing Station,3,FF8200,FFFFFF
+4,166,166,Wyndham Vale Station - Hoppers Crossing Station,3,FF8200,FFFFFF
+4,167,167,Hoppers Crossing Station - Tarneit Station,3,FF8200,FFFFFF
+4,170,170,Werribee Station - Tarneit Station,3,FF8200,FFFFFF
+4,180,180,Werribee Station - Tarneit Station,3,FF8200,FFFFFF
+4,181,181,Werribee Station - Hoppers Crossing Station,3,FF8200,FFFFFF
+4,182,182,Werribee Railway Station - Tarneit Station,3,FF8200,FFFFFF
+4,190,190,Wyndham Vale Station - Werribee Station,3,FF8200,FFFFFF
+4,191,191,Manor Lakes - Werribee Station,3,FF8200,FFFFFF
+4,192,192,Wyndham Vale Station - Werribee Station,3,FF8200,FFFFFF
+4,200,200,Bulleen - City (Queen St),3,FF8200,FFFFFF
+4,201,201,Box Hill Station - Deakin University,3,FF8200,FFFFFF
+4,202,202,Yarra Bend - Melbourne University,3,FF8200,FFFFFF
+4,207,207,Doncaster SC - City (Queen St),3,FF8200,FFFFFF
+4,215,215,Caroline Springs - Highpoint SC,3,FF8200,FFFFFF
+4,216,216,Sunshine Station - City (Queen St),3,FF8200,FFFFFF
+4,220,220,Sunshine Station - Sunshine Station,3,FF8200,FFFFFF
+4,223,223,Yarraville - Highpoint SC,3,FF8200,FFFFFF
+4,232,232,Altona North - City (Queen Victoria Market),3,FF8200,FFFFFF
+4,234,234,Garden City - City (Queen Victoria Market),3,FF8200,FFFFFF
+4,235,235,Fishermans Bend - City (Queen Victoria Market),3,FF8200,FFFFFF
+4,236,236,Garden City - City (Queen Victoria Market),3,FF8200,FFFFFF
+4,237,237,Fishermans Bend - City (Queen Victoria Market),3,FF8200,FFFFFF
+4,246,246,Elsternwick - Clifton Hill,3,FF8200,FFFFFF
+4,250,250,La Trobe University - City (Queen St),3,FF8200,FFFFFF
+4,251,251,Northland SC - City (Queen St),3,FF8200,FFFFFF
+4,270,270,Mitcham - Box Hill,3,FF8200,FFFFFF
+4,271,271,Ringwood - Box Hill,3,FF8200,FFFFFF
+4,273,273,The Pines SC - Nunawading Station,3,FF8200,FFFFFF
+4,279,279,Doncaster SC/Templestowe - Box Hill,3,FF8200,FFFFFF
+4,280,280,The Pines SC,3,FF8200,FFFFFF
+4,281,281,Deakin University - Templestowe,3,FF8200,FFFFFF
+4,282,282,The Pines SC,3,FF8200,FFFFFF
+4,284,284,Doncaster Park & Ride - Box Hill,3,FF8200,FFFFFF
+4,285,285,Camberwell SC - Doncaster Park & Ride,3,FF8200,FFFFFF
+4,293,293,Greensborough - Box Hill,3,FF8200,FFFFFF
+4,295,295,The Pines SC - Doncaster SC,3,FF8200,FFFFFF
+4,301,301,Reservoir - La Trobe University,3,FF8200,FFFFFF
+4,301A,301SB,,3,FF8200,FFFFFF
+4,302,302,Box Hill Station - City (Lonsdale St),3,FF8200,FFFFFF
+4,303,303,Ringwood North - City (Queen St),3,FF8200,FFFFFF
+4,304,304,Doncaster SC - City (Lonsdale St),3,FF8200,FFFFFF
+4,305,305,The Pines - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,309,309,Donvale - City (Queen St),3,FF8200,FFFFFF
+4,318,318,Deep Creek - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,343,343,Hurstbridge - Greensborough,3,FF8200,FFFFFF
+4,350,350,La Trobe University - City (Queen St),3,FF8200,FFFFFF
+4,356,356,Wollert East - Epping Station,3,FF8200,FFFFFF
+4,357,357,Wollert West - Thomastown Station,3,FF8200,FFFFFF
+4,358,358,Wollert - Epping Station,3,FF8200,FFFFFF
+4,364,364,Warrandyte - Ringwood Station,3,FF8200,FFFFFF
+4,370,370,Ringwood - Mitcham,3,FF8200,FFFFFF
+4,380,380,Ringwood Loop - Ringwood Loop,3,FF8200,FFFFFF
+4,381,381,Diamond Creek Station - Mernda Station,3,FF8200,FFFFFF
+4,382,382,Whittlesea - Northland SC,3,FF8200,FFFFFF
+4,383,383,Palisades - University Hill,3,FF8200,FFFFFF
+4,384,384,Kinglake - Whittlesea,3,FF8200,FFFFFF
+4,385,385,Mernda Station/Whittlesea - Greensborough,3,FF8200,FFFFFF
+4,386,386,Mernda Station - Bundoora RMIT,3,FF8200,FFFFFF
+4,387,387,Mernda Station - Bundoora RMIT,3,FF8200,FFFFFF
+4,388,388,Mernda Station,3,FF8200,FFFFFF
+4,389,389,Mernda Station,3,FF8200,FFFFFF
+4,390,390,Mernda Station - Craigieburn Station,3,FF8200,FFFFFF
+4,400,400,Laverton Station - Sunshine Station,3,FF8200,FFFFFF
+4,401,401,North Melbourne Station - University of Melbourne,3,FF8200,FFFFFF
+4,402,402,Footscray - East Melbourne,3,FF8200,FFFFFF
+4,403,403,Footscray Station - Melbourne University,3,FF8200,FFFFFF
+4,404,404,Footscray Station - Moonee Ponds,3,FF8200,FFFFFF
+4,406,406,Keilor East - Footscray,3,FF8200,FFFFFF
+4,407,407,Avondale Heights - Highpoint SC,3,FF8200,FFFFFF
+4,408,408,Highpoint SC - St Albans Station,3,FF8200,FFFFFF
+4,409,409,Highpoint SC - Yarraville,3,FF8200,FFFFFF
+4,410,410,Sunshine Station - Footscray,3,FF8200,FFFFFF
+4,411,411,Laverton Station - Footscray,3,FF8200,FFFFFF
+4,412,412,Laverton Station - Footscray,3,FF8200,FFFFFF
+4,414,414,Laverton Station - Footscray,3,FF8200,FFFFFF
+4,415,415,Laverton Station - Williamstown,3,FF8200,FFFFFF
+4,417,417,Laverton North - Laverton Station,3,FF8200,FFFFFF
+4,418,418,Caroline Springs - St Albans Station,3,FF8200,FFFFFF
+4,419,419,Watergardens Station - St Albans Station,3,FF8200,FFFFFF
+4,420,420,Watergardens Station - Sunshine Station,3,FF8200,FFFFFF
+4,421,421,Watergardens Station - St Albans Station,3,FF8200,FFFFFF
+4,422,422,Brimbank Central SC - Sunshine Station,3,FF8200,FFFFFF
+4,423,423,Brimbank Central SC - St Albans Station,3,FF8200,FFFFFF
+4,424,424,Brimbank Central SC - St Albans Station,3,FF8200,FFFFFF
+4,425,425,Watergardens Station - St Albans Station,3,FF8200,FFFFFF
+4,426,426,Caroline Springs - Sunshine Station,3,FF8200,FFFFFF
+4,427,427,Sunshine West - Sunshine Station,3,FF8200,FFFFFF
+4,428,428,Sunshine West - Sunshine Station,3,FF8200,FFFFFF
+4,429,429,Sunshine Station,3,FF8200,FFFFFF
+4,431,431,Kingsville - Yarraville,3,FF8200,FFFFFF
+4,432,432,Yarraville - Newport,3,FF8200,FFFFFF
+4,439,439,Werribee South - Werribee Station,3,FF8200,FFFFFF
+4,441,441,Westleigh Gardens - Werribee Station,3,FF8200,FFFFFF
+4,443,443,Werribee Station (anti-clockwise) - Werribee Station (clockwise),3,FF8200,FFFFFF
+4,444,444,Aintree - Rockbank,3,FF8200,FFFFFF
+4,453,453,Melton - Melton Station,3,FF8200,FFFFFF
+4,454,454,Cobblebank Station - Melton Station,3,FF8200,FFFFFF
+4,455,455,Micasa Rise - Melton Station,3,FF8200,FFFFFF
+4,456,456,Sunshine Station - Melton,3,FF8200,FFFFFF
+4,457,457,Melton - Melton Station,3,FF8200,FFFFFF
+4,458,458,Kurunjang - Melton Station,3,FF8200,FFFFFF
+4,459,459,Arnolds Creek - Melton Station,3,FF8200,FFFFFF
+4,460,460,Caroline Springs Station - Watergardens Railway Station,3,FF8200,FFFFFF
+4,461,461,Caroline Springs - Watergardens Station,3,FF8200,FFFFFF
+4,462,462,Caroline Springs - Watergardens,3,FF8200,FFFFFF
+4,463,463,Hillside - Watergardens,3,FF8200,FFFFFF
+4,465,465,Keilor Park - Essendon Station,3,FF8200,FFFFFF
+4,467,467,Aberfeldie - Moonee Ponds Station,3,FF8200,FFFFFF
+4,468,468,Highpoint SC - Essendon,3,FF8200,FFFFFF
+4,469,469,Keilor East - Moonee Ponds,3,FF8200,FFFFFF
+4,471,471,Williamstown - Sunshine Station,3,FF8200,FFFFFF
+4,472,472,Moonee Ponds - Williamstown,3,FF8200,FFFFFF
+4,476,476,Watergardens - Moonee Ponds,3,FF8200,FFFFFF
+4,477,477,Broadmeadows Station - Moonee Ponds,3,FF8200,FFFFFF
+4,478,478,Melbourne Airport - Airport West SC,3,FF8200,FFFFFF
+4,479,479,Sunbury Station - Airport West SC,3,FF8200,FFFFFF
+4,481,481,Mount Lion - Sunbury,3,FF8200,FFFFFF
+4,482,482,Melbourne Airport - Airport West SC,3,FF8200,FFFFFF
+4,483,483,Moonee Ponds - Sunbury,3,FF8200,FFFFFF
+4,484,484,Roxburgh Park - Broadmeadows,3,FF8200,FFFFFF
+4,485,485,Wilsons Lane - Sunbury,3,FF8200,FFFFFF
+4,486,486,Rolling Meadows - Sunbury,3,FF8200,FFFFFF
+4,487,487,Killara Heights - Sunbury,3,FF8200,FFFFFF
+4,488,488,Jacksons Hill - Sunbury,3,FF8200,FFFFFF
+4,489,489,Canterbury Hills - Sunbury,3,FF8200,FFFFFF
+4,490,490,Gowanbrae - Airport West,3,FF8200,FFFFFF
+4,494,494,Point Cook South - Williams Landing Station,3,FF8200,FFFFFF
+4,495,495,Point Cook South - Williams Landing Station,3,FF8200,FFFFFF
+4,496,496,Sanctuary Lakes - Laverton Station,3,FF8200,FFFFFF
+4,497,497,Saltwater Coast Estate - Williams Landing Station,3,FF8200,FFFFFF
+4,498,498,Hoppers Crossing Station - Laverton Station,3,FF8200,FFFFFF
+4,501,501,,3,FF8200,FFFFFF
+4,503,503,Essendon - East Brunswick,3,FF8200,FFFFFF
+4,504,504,Clifton Hill - Moonee Ponds,3,FF8200,FFFFFF
+4,505,505,Melbourne University - Moonee Ponds,3,FF8200,FFFFFF
+4,506,506,Moonee Ponds - Westgarth,3,FF8200,FFFFFF
+4,508,508,Alphington - Moonee Ponds,3,FF8200,FFFFFF
+4,509,509,Brunswick West - Barkly Square SC,3,FF8200,FFFFFF
+4,510,510,Ivanhoe Station - Essendon Station,3,FF8200,FFFFFF
+4,511,511,Mandalay - Donnybrook Station,3,FF8200,FFFFFF
+4,512,512,East Coburg - Strathmore Station,3,FF8200,FFFFFF
+4,513,513,Eltham - Glenroy,3,FF8200,FFFFFF
+4,514,514,Eltham - Glenroy,3,FF8200,FFFFFF
+4,517,517,St Helena - Northland SC,3,FF8200,FFFFFF
+4,518,518,St Helena West - Greensborough,3,FF8200,FFFFFF
+4,525,525,Donnybrook Station - Craigieburn Station,3,FF8200,FFFFFF
+4,526,526,West Preston - Coburg,3,FF8200,FFFFFF
+4,527,527,Gowrie - Northland SC,3,FF8200,FFFFFF
+4,528,528,Craigieburn Central SC - Craigieburn Station,3,FF8200,FFFFFF
+4,529,529,Craigieburn North - Craigieburn Station,3,FF8200,FFFFFF
+4,530,530,Coburg - Campbellfield,3,FF8200,FFFFFF
+4,531,531,North Coburg - Upfield Station,3,FF8200,FFFFFF
+4,532,532,Broadmeadows - Craigieburn,3,FF8200,FFFFFF
+4,533,533,Craigieburn North - Craigieburn,3,FF8200,FFFFFF
+4,534,534,Coburg - Glenroy,3,FF8200,FFFFFF
+4,536,536,Gowrie - Glenroy,3,FF8200,FFFFFF
+4,537,537,Craigieburn West - Craigieburn Station,3,FF8200,FFFFFF
+4,538,538,Broadmeadows - Somerset Estate,3,FF8200,FFFFFF
+4,540,540,Upfield - Broadmeadows,3,FF8200,FFFFFF
+4,541,541,Craigieburn North (Mt Ridley Rd) - Broadmeadows Station,3,FF8200,FFFFFF
+4,542,542,Roxburgh Park - Pascoe Vale,3,FF8200,FFFFFF
+4,543,543,Greenvale Gardens - Roxburgh Park,3,FF8200,FFFFFF
+4,544,544,Roxburgh Park - Craigieburn,3,FF8200,FFFFFF
+4,546,546,Melbourne University - Heidelberg,3,FF8200,FFFFFF
+4,548,548,Kew - La Trobe University,3,FF8200,FFFFFF
+4,549,549,Ivanhoe - Northland SC,3,FF8200,FFFFFF
+4,550,550,Northland SC - La Trobe University,3,FF8200,FFFFFF
+4,551,551,Heidelberg - La Trobe University,3,FF8200,FFFFFF
+4,552,552,North East Reservoir - Northcote Plaza,3,FF8200,FFFFFF
+4,553,553,West Preston - Preston,3,FF8200,FFFFFF
+4,554,554,Lalor Loop,3,FF8200,FFFFFF
+4,555,555,Northland SC - Epping Plaza SC,3,FF8200,FFFFFF
+4,556,556,Epping Plaza SC - Northland SC,3,FF8200,FFFFFF
+4,557,557,Thomastown,3,FF8200,FFFFFF
+4,558,558,Reservoir - Reservoir,3,FF8200,FFFFFF
+4,559,559,Thomastown Station,3,FF8200,FFFFFF
+4,561,561,Macleod - Pascoe Vale,3,FF8200,FFFFFF
+4,564,564,South Morang Station - Bundoora RMIT,3,FF8200,FFFFFF
+4,566,566,Lalor - Northland SC,3,FF8200,FFFFFF
+4,567,567,Northcote - Regent,3,FF8200,FFFFFF
+4,569,569,Epping Plaza SC - South Morang Station,3,FF8200,FFFFFF
+4,570,570,Thomastown - Bundoora RMIT,3,FF8200,FFFFFF
+4,577,577,Epping Plaza SC - South Morang Station,3,FF8200,FFFFFF
+4,578,578,Eltham Station - Warrandyte,3,FF8200,FFFFFF
+4,579,579,Eltham - Warrandyte,3,FF8200,FFFFFF
+4,580,580,Eltham Station - Diamond Creek,3,FF8200,FFFFFF
+4,582,582,Eltham Station,3,FF8200,FFFFFF
+4,600,600,Southland SC - St Kilda Station,3,FF8200,FFFFFF
+4,601,601,Huntingdale Station - Monash University (Clayton),3,FF8200,FFFFFF
+4,603,603,Brighton Beach Station - Alfred Hospital,3,FF8200,FFFFFF
+4,604,604,Gardenvale - Alfred Hospital,3,FF8200,FFFFFF
+4,605,605,Gardenvale - City,3,FF8200,FFFFFF
+4,606,606,Fishermans Bend - Elsternwick Station,3,FF8200,FFFFFF
+4,609,609,Kew/Hawthorn - Fairfield,3,FF8200,FFFFFF
+4,612,612,Box Hill - Chadstone SC,3,FF8200,FFFFFF
+4,623,623,Glen Waverley - St. Kilda,3,FF8200,FFFFFF
+4,624,624,Oakleigh - Kew,3,FF8200,FFFFFF
+4,625,625,Elsternwick - Chadstone SC,3,FF8200,FFFFFF
+4,626,626,Chadstone SC - Middle Brighton,3,FF8200,FFFFFF
+4,627,627,Waverley Gardens SC - Southland SC,3,FF8200,FFFFFF
+4,630,630,Monash University - Elwood,3,FF8200,FFFFFF
+4,631,631,Waverley Gardens SC - Southland SC,3,FF8200,FFFFFF
+4,663,663,Belgrave - Lilydale,3,FF8200,FFFFFF
+4,664,664,Chirnside Park SC - Knox City SC,3,FF8200,FFFFFF
+4,670,670,Lilydale - Ringwood,3,FF8200,FFFFFF
+4,671,671,Chirnside Park SC - Croydon,3,FF8200,FFFFFF
+4,672,672,Chirnside Park SC - Croydon,3,FF8200,FFFFFF
+4,675,675,Chirnside Park SC - Mooroolbark,3,FF8200,FFFFFF
+4,677,677,Chirnside Park SC - Lilydale,3,FF8200,FFFFFF
+4,679,679,Chirnside Park SC - Ringwood,3,FF8200,FFFFFF
+4,680,680,Mooroolbark - Lilydale,3,FF8200,FFFFFF
+4,681,681,Knox City SC,3,FF8200,FFFFFF
+4,682,682,Knox City SC (Anti-Clockwise),3,FF8200,FFFFFF
+4,683,683,Warburton - Chirnside Park SC,3,FF8200,FFFFFF
+4,684,684,Melbourne - Eildon,3,FF8200,FFFFFF
+4,685,685,Lilydale - Healesville,3,FF8200,FFFFFF
+4,688,688,Upper Ferntree Gully - Croydon,3,FF8200,FFFFFF
+4,689,689,Montrose - Croydon Station,3,FF8200,FFFFFF
+4,690,690,Boronia - Croydon,3,FF8200,FFFFFF
+4,691,691,Boronia - Waverley Gardens SC,3,FF8200,FFFFFF
+4,693,693,Belgrave - Oakleigh,3,FF8200,FFFFFF
+4,694,694,Mt Dandenong - Belgrave,3,FF8200,FFFFFF
+4,695,695,Gembrook - Belgrave,3,FF8200,FFFFFF
+4,695F,695F,Gembrook - Belgrave,3,FF8200,FFFFFF
+4,696,696,Olinda - Monbulk,3,FF8200,FFFFFF
+4,697,697,Belgrave South - Belgrave,3,FF8200,FFFFFF
+4,699,699,Upwey - Belgrave,3,FF8200,FFFFFF
+4,701,701,Bentleigh - Oakleigh,3,FF8200,FFFFFF
+4,703,703,Blackburn - Middle Brighton,3,FF8200,FFFFFF
+4,704,704,Clayton - Oakleigh,3,FF8200,FFFFFF
+4,705,705,Springvale - Mordialloc,3,FF8200,FFFFFF
+4,706,706,Chelsea - Mordialloc,3,FF8200,FFFFFF
+4,708,708,Carrum - Hampton,3,FF8200,FFFFFF
+4,709,709,Waterways - Mordialloc,3,FF8200,FFFFFF
+4,732,732,Upper Ferntree Gully - Box Hill,3,FF8200,FFFFFF
+4,733,733,Box Hill - Oakleigh,3,FF8200,FFFFFF
+4,734,734,Glen Waverley - Glen Iris,3,FF8200,FFFFFF
+4,735,735,Nunawading - Box Hill,3,FF8200,FFFFFF
+4,736,736,Blackburn - Mitcham,3,FF8200,FFFFFF
+4,737,737,Monash University - Croydon,3,FF8200,FFFFFF
+4,738,738,Knox City - Mitcham,3,FF8200,FFFFFF
+4,740,740,Vermont East - Mitcham,3,FF8200,FFFFFF
+4,742,742,Chadstone SC - Ringwood Station,3,FF8200,FFFFFF
+4,745,745,Wantirna /  Boronia - Bayswater,3,FF8200,FFFFFF
+4,753,753,Bayswater - Glen Waverley,3,FF8200,FFFFFF
+4,754,754,Glen Waverley - Rowville,3,FF8200,FFFFFF
+4,755,755,Knox City SC - Bayswater,3,FF8200,FFFFFF
+4,757,757,Scoresby - Knox City SC,3,FF8200,FFFFFF
+4,758,758,Knoxfield - Knox City SC,3,FF8200,FFFFFF
+4,760,760,Karingal - Frankston,3,FF8200,FFFFFF
+4,765,765,Box Hill - Mitcham,3,FF8200,FFFFFF
+4,766,766,Box Hill - Burwood,3,FF8200,FFFFFF
+4,767,767,Box Hill - Southland SC,3,FF8200,FFFFFF
+4,770,770,Karingal - Frankston,3,FF8200,FFFFFF
+4,771,771,Langwarrin - Frankston,3,FF8200,FFFFFF
+4,772,772,Eliza Heights - Frankston,3,FF8200,FFFFFF
+4,773,773,Frankston South - Frankston,3,FF8200,FFFFFF
+4,774,774,Delacombe Park - Frankston,3,FF8200,FFFFFF
+4,775,775,Lakewood - Frankston,3,FF8200,FFFFFF
+4,776,776,Pearcedale - Frankston,3,FF8200,FFFFFF
+4,777,777,McClelland Drive - Karingal  SC,3,FF8200,FFFFFF
+4,778,778,Carrum Downs - Kananook Station,3,FF8200,FFFFFF
+4,779,779,Belvedere - Frankston,3,FF8200,FFFFFF
+4,780,780,Carrum - Frankston,3,FF8200,FFFFFF
+4,781,781,Frankston Station - Mornington Peninsula,3,FF8200,FFFFFF
+4,782,782,Flinders - Frankston,3,FF8200,FFFFFF
+4,783,783,Hastings - Frankston,3,FF8200,FFFFFF
+4,784,784,Osborne - Frankston,3,FF8200,FFFFFF
+4,785,785,Mornington East - Frankston,3,FF8200,FFFFFF
+4,786,786,St Andrews Beach - Rye,3,FF8200,FFFFFF
+4,787,787,Safety Beach - Safety Beach,3,FF8200,FFFFFF
+4,788,788,Portsea - Frankston,3,FF8200,FFFFFF
+4,789,789,Langwarrin - Frankston Station,3,FF8200,FFFFFF
+4,790,790,Frankston Station - Langwarrin,3,FF8200,FFFFFF
+4,791,791,Cranbourne Station - Frankston Station,3,FF8200,FFFFFF
+4,792,792,Botanic Ridge and Pearcedale - Cranbourne Station,3,FF8200,FFFFFF
+4,795,795,Warneet - Cranbourne,3,FF8200,FFFFFF
+4,796,796,Clyde - Cranbourne Station,3,FF8200,FFFFFF
+4,798,798,Selandra Rise - Cranbourne Park SC,3,FF8200,FFFFFF
+4,799,799,The Avenue Village SC - Merinda Park Station,3,FF8200,FFFFFF
+4,800,800,Chadstone SC - Dandenong,3,FF8200,FFFFFF
+4,802,802,Chadstone SC - Dandenong,3,FF8200,FFFFFF
+4,804,804,Chadstone SC - Dandenong,3,FF8200,FFFFFF
+4,811,811,Brighton - Dandenong,3,FF8200,FFFFFF
+4,812,812,Brighton - Dandenong,3,FF8200,FFFFFF
+4,813,813,Waverley Gardens SC - Dandenong,3,FF8200,FFFFFF
+4,814,814,Springvale South - Dandenong,3,FF8200,FFFFFF
+4,816,816,Noble Park Station - Keysborough South,3,FF8200,FFFFFF
+4,822,822,Sandringham - Chadstone SC,3,FF8200,FFFFFF
+4,823,823,Southland SC - North Brighton,3,FF8200,FFFFFF
+4,824,824,Keysborough - Moorabbin,3,FF8200,FFFFFF
+4,825,825,Southland SC - Moorabbin,3,FF8200,FFFFFF
+4,828,828,Berwick - Hampton,3,FF8200,FFFFFF
+4,831,831,Kingsmere Estate - Berwick Station,3,FF8200,FFFFFF
+4,832,832,Carrum Downs - Frankston,3,FF8200,FFFFFF
+4,833,833,Carrum Downs - Frankston,3,FF8200,FFFFFF
+4,834,834,Berwick Station,3,FF8200,FFFFFF
+4,835,835,Berwick Station,3,FF8200,FFFFFF
+4,836,836,Eden Rise SC - Berwick Station,3,FF8200,FFFFFF
+4,837,837,Beaconsfield East - Berwick Station,3,FF8200,FFFFFF
+4,838,838,Emerald - Fountain Gate SC,3,FF8200,FFFFFF
+4,839,839,North Berwick - Berwick Station,3,FF8200,FFFFFF
+4,840,840,Gembrook - Pakenham,3,FF8200,FFFFFF
+4,841,841,Cranbourne - Narre Warren North,3,FF8200,FFFFFF
+4,842,842,Endeavour Hills SC - Fountain Gate SC,3,FF8200,FFFFFF
+4,843,843,Endeavour Hills - Dandenong Station,3,FF8200,FFFFFF
+4,844,844,Doveton - Dandenong,3,FF8200,FFFFFF
+4,845,845,Endeavour Hills - Dandenong,3,FF8200,FFFFFF
+4,846,846,Eden Rise SC - Berwick Station,3,FF8200,FFFFFF
+4,847,847,Berwick - Casey Central SC,3,FF8200,FFFFFF
+4,848,848,Brandon Park SC - Dandenong,3,FF8200,FFFFFF
+4,850,850,Glen Waverley - Dandenong,3,FF8200,FFFFFF
+4,857,857,Chelsea - Dandenong,3,FF8200,FFFFFF
+4,858,858,Aspendale Gardens - Edithvale,3,FF8200,FFFFFF
+4,861,861,Endeavour Hills - Dandenong,3,FF8200,FFFFFF
+4,862,862,Chadstone SC - Dandenong,3,FF8200,FFFFFF
+4,863,863,Hampton Park SC - Endeavour Hills SC,3,FF8200,FFFFFF
+4,881,881,Merinda Park Station - Clyde North,3,FF8200,FFFFFF
+4,885,885,Springvale - Glen Waverley,3,FF8200,FFFFFF
+4,887,887,Mornington Peninsula - Frankston Station,3,FF8200,FFFFFF
+4,888,888,Clyde - Berwick Station,3,FF8200,FFFFFF
+4,889,889,Clyde North - Berwick Station,3,FF8200,FFFFFF
+4,890,890,Dandenong Station - Lynbrook Station,3,FF8200,FFFFFF
+4,891,891,Lynbrook Station - Fountain Gate SC,3,FF8200,FFFFFF
+4,892,892,Casey Central SC - Dandenong Station,3,FF8200,FFFFFF
+4,893,893,Cranbourne Park SC - Dandenong Station,3,FF8200,FFFFFF
+4,894,894,Amberly Park - Hallam  Station,3,FF8200,FFFFFF
+4,895,895,Narre Warren South - Fountain Gate SC,3,FF8200,FFFFFF
+4,897,897,Lynbrook Station - Clyde North,3,FF8200,FFFFFF
+4,898,898,Clyde North - Cranbourne Station,3,FF8200,FFFFFF
+4,899,899,The Avenue Village SC - Berwick Station,3,FF8200,FFFFFF
+4,900,900,Caulfield - Stud Park SC (Rowville),3,FF8200,FFFFFF
+4,901,901,Frankston - Melbourne Airport,3,FF8200,FFFFFF
+4,902,902,Chelsea - Airport West,3,FF8200,FFFFFF
+4,903,903,Mordialloc - Altona,3,FF8200,FFFFFF
+4,905,905,The Pines SC - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,906,906,Warrandyte - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,907,907,Mitcham - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,908,908,The Pines SC - City (King/Lonsdale Sts),3,FF8200,FFFFFF
+4,922,922,Southland SC - St Kilda Station,3,FF8200,FFFFFF
+4,923,923,Southland SC - St Kilda Station,3,FF8200,FFFFFF
+4,925,925,Lakeside - Pakenham Station,3,FF8200,FFFFFF
+4,926,926,Pakenham Station - Fountain Gate SC,3,FF8200,FFFFFF
+4,927,927,Pakenham North - Pakenham Station,3,FF8200,FFFFFF
+4,928,928,Cardinia Road Station - Pakenham Station,3,FF8200,FFFFFF
+4,929,929,Pakenham North (Army Rd) - Pakenham Station,3,FF8200,FFFFFF
+4,941,941,Watergardens Station - Sunshine Station,3,FF8200,FFFFFF
+4,943,943,Melton - Watergardens Station,3,FF8200,FFFFFF
+4,947,947,Newport Station - Footscray,3,FF8200,FFFFFF
+4,949,949,Williams Landing Station,3,FF8200,FFFFFF
+4,951,951,Glenroy - City,3,FF8200,FFFFFF
+4,953,953,Craigieburn - Broadmeadows Station,3,FF8200,FFFFFF
+4,959,959,Broadmeadows - City,3,FF8200,FFFFFF
+4,965,965,Healesville - Lilydale Station,3,FF8200,FFFFFF
+4,967,967,Bayswater - Glen Waverley,3,FF8200,FFFFFF
+4,978,978,Dandenong Station - Clayton Station,3,FF8200,FFFFFF
+4,979,979,Dandenong Station - Clayton Station,3,FF8200,FFFFFF
+4,981,981,Cranbourne Park - Dandenong Station,3,FF8200,FFFFFF
+4,982,982,Cranbourne Park - Dandenong Station,3,FF8200,FFFFFF
+5,995,,Melbourne - Warrnambool Via Ararat & Hamilton,3,A57FB2,FFFFFF
+5,EC2,,Echuca/Moama - Melbourne Via Shepparton,3,A57FB2,FFFFFF
+5,Ech,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3,A57FB2,FFFFFF
+5,Sht,,Shepparton - Melbourne Via Seymour,3,A57FB2,FFFFFF
+5,V01,,Melbourne - Albury Via Seymour,3,A57FB2,FFFFFF
+5,V02,,"Adelaide - Melbourne Via Geelong, Ballarat, Horsham",3,A57FB2,FFFFFF
+5,V03,,Adelaide - Melbourne Via Bendigo & Nhill,3,A57FB2,FFFFFF
+5,V04,,Ararat - Melbourne Via Ballarat,3,A57FB2,FFFFFF
+5,V05,,Ballarat - Melbourne Via Melton,3,A57FB2,FFFFFF
+5,V06,,Ballarat - Warrnambool Via Skipton,3,A57FB2,FFFFFF
+5,V07,,Melbourne - Barmah Via Shepparton & Heathcote,3,A57FB2,FFFFFF
+5,V08,,Melbourne - Bairnsdale Via Sale & Traralgon,3,A57FB2,FFFFFF
+5,V09,,Batemans Bay - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5,V10,,Melbourne - Barham Via Heathcote,3,A57FB2,FFFFFF
+5,V11,,Bendigo - Albury Via Wangaratta & Shepparton,3,A57FB2,FFFFFF
+5,V12,,Melbourne - Bendigo Via Sunbury,3,A57FB2,FFFFFF
+5,V13,,Canberra - Melbourne Via Bairnsdale,3,A57FB2,FFFFFF
+5,V14,,Canberra - Melbourne Via Albury,3,A57FB2,FFFFFF
+5,V15,,Cowes or Inverloch - Melbourne Via Dandenong & Koo Wee Rup,3,A57FB2,FFFFFF
+5,V16,,Casterton - Melbourne Via Warrnambool & Hamilton,3,A57FB2,FFFFFF
+5,V17,,Melbourne - Corowa Via Rutherglen & Wangaratta,3,A57FB2,FFFFFF
+5,V18,,Melbourne - Daylesford Via Woodend or Castlemaine,3,A57FB2,FFFFFF
+5,V19,,Melbourne - Donald Via Bendigo,3,A57FB2,FFFFFF
+5,V20,,Melbourne - Deniliquin Via Echuca & Heathcote,3,A57FB2,FFFFFF
+5,V22,,Bendigo - Geelong Via Ballarat,3,A57FB2,FFFFFF
+5,V23,,Geelong - Melbourne Via Geelong,3,A57FB2,FFFFFF
+5,V24,,Halls Gap - Melbourne Via Ballarat & Stawell,3,A57FB2,FFFFFF
+5,V25,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3,A57FB2,FFFFFF
+5,V27,,Melbourne - Maryborough Via Castlemaine,3,A57FB2,FFFFFF
+5,V28,,Melbourne - Mansfield Via Yea,3,A57FB2,FFFFFF
+5,V29,,Mt Gambier - Melbourne Via Ballarat & Hamilton,3,A57FB2,FFFFFF
+5,V30,,Mount Gambier - Melbourne Via Geelong & Warrnambool,3,A57FB2,FFFFFF
+5,V31,,Albury - Mildura Via Kerang & Shepparton,3,A57FB2,FFFFFF
+5,V32,,Mildura - Ballarat Via Bendigo & Swan Hill,3,A57FB2,FFFFFF
+5,V34,,Melbourne - Mildura Via Donald & Ballarat,3,A57FB2,FFFFFF
+5,V35,,Melbourne - Mildura Via Swan Hill & Bendigo,3,A57FB2,FFFFFF
+5,V36,,Melbourne - Mulwala Via Benalla & Seymour,3,A57FB2,FFFFFF
+5,V37,,Nhill - Melbourne Via Ballarat & Ararat,3,A57FB2,FFFFFF
+5,V38,,Ouyen - Melbourne Via Ballarat & Warracknabeal,3,A57FB2,FFFFFF
+5,V39,,Melbourne - Sea Lake Via Charlton & Bendigo,3,A57FB2,FFFFFF
+5,V40,,Melbourne - Seymour Via Broadmeadows,3,A57FB2,FFFFFF
+5,V41,,Melbourne - Griffith Via Shepparton,3,A57FB2,FFFFFF
+5,V43,,Sale - Melbourne Via Traralgon,3,A57FB2,FFFFFF
+5,V45,,Melbourne - Swan Hill Via Bendigo,3,A57FB2,FFFFFF
+5,V47,,Sydney - Adelaide Via Albury,3,A57FB2,FFFFFF
+5,V48,,"Traralgon - Melbourne Via Pakenham, Moe & Morwell",3,A57FB2,FFFFFF
+5,V50,,Warrnambool - Melbourne Via Geelong & Apollo Bay,3,A57FB2,FFFFFF
+5,V51,,Warrnambool - Melbourne Via Geelong & Colac,3,A57FB2,FFFFFF
+5,V52,,Yarram - Melbourne Via Koo Wee Rup & Leongatha,3,A57FB2,FFFFFF
+5,als,,Seymour - Alexandra Via Yea,3,A57FB2,FFFFFF
+5,mby,,Melbourne - Mount Beauty Via Bright,3,A57FB2,FFFFFF
+5,pay,,Melbourne - Paynesville Via Bairnsdale,3,A57FB2,FFFFFF
+6,10B,10,Alfredton - Ballarat Station Via Wendouree,3,FF8200,FFFFFF
+6,11B,11,Wendouree Station - Ballarat Station Via Howitt St,3,FF8200,FFFFFF
+6,12B,12,Wendouree Station - Ballarat Station Via Forest St,3,FF8200,FFFFFF
+6,13,13,Paynesville - Bairnsdale Via Paynesville,3,FF8200,FFFFFF
+6,13B,13,Invermay Park - Ballarat Station Via Invermay Park,3,FF8200,FFFFFF
+6,14,14,"Omeo - Bairnsdale Via Bruthen, Swifts Creek",3,FF8200,FFFFFF
+6,14B,14,Black Hill - Ballarat Station Via Black Hill,3,FF8200,FFFFFF
+6,209,3,Wurruk - Sale Via Princes Highway,3,FF8200,FFFFFF
+6,20B,20,Canadian - Ballarat Station Via Canadian,3,FF8200,FFFFFF
+6,21B,21,Buninyong - Ballarat Station Via Federation University,3,FF8200,FFFFFF
+6,22B,22,Federation University - Ballarat Station Via Sebastopol,3,FF8200,FFFFFF
+6,23B,23,Mount Pleasant - Ballarat Station Via Mount Pleasant,3,FF8200,FFFFFF
+6,24B,24,Sebastopol - Ballarat Station Via Sebastopol,3,FF8200,FFFFFF
+6,25B,25,Delacombe - Ballarat Station Via Delacombe,3,FF8200,FFFFFF
+6,26B,26,Alfredton - Ballarat Station Via Alfredton,3,FF8200,FFFFFF
+6,298,2,Gippsland Regional Sport Complex - Sale Via Gippsland Regional Sport Complex,3,FF8200,FFFFFF
+6,30B,30,Creswick - Ballarat Station Via Creswick,3,FF8200,FFFFFF
+6,31B,31,Miners rest - Wendouree Station Via Miners rest,3,FF8200,FFFFFF
+6,40b,211/311/312,Merbein - MilduraCity Via Eleventh St,3,FF8200,FFFFFF
+6,473,473,"Gisborne Station Via Gisborne Town Centre, Fersfield Rd",3,FF8200,FFFFFF
+6,474,474,Gisborne Railway Station Via Gisborne Railway Station,3,FF8200,FFFFFF
+6,54n,,"Traralgon - Wonthaggi Via Inverloch, Leongatha, Mirboo Nth",3,FF8200,FFFFFF
+6,589,1,Sale Hospital - Sale Via Port of Sale,3,FF8200,FFFFFF
+6,73,1,Bairnsdale Via West Bairnsdale,3,FF8200,FFFFFF
+6,855,,Yarram - Traralgon Via Gormandale,3,FF8200,FFFFFF
+6,858,,Wangaratta - Myrtleford Via Wangaratta,3,FF8200,FFFFFF
+6,866,AW,Albury Via Gateway Island,3,FF8200,FFFFFF
+6,867,F,Wodonga Via West Wodonga,3,FF8200,FFFFFF
+6,868,G,Wodonga Via Gayview Drive,3,FF8200,FFFFFF
+6,869,T,TAFE Via West Wodonga,3,FF8200,FFFFFF
+6,86N,,"Kaniva - Horsham Via Dimboola, Nhill",3,FF8200,FFFFFF
+6,872,O,West Wodonga Via West Wodonga,3,FF8200,FFFFFF
+6,873,C,Cambourne Park Via Cambourne Park,3,FF8200,FFFFFF
+6,874,WS,Wodonga Via Wodonga,3,FF8200,FFFFFF
+6,875,B,Baranduda Via Baranduda,3,FF8200,FFFFFF
+6,876,150,Albury Via Birallee Shopping Centre,3,FF8200,FFFFFF
+6,877,160,Albury Via Birallee Shopping Centre,3,FF8200,FFFFFF
+6,89x,,Daylesford Via Hepburn Springs,3,FF8200,FFFFFF
+6,901,NSW901,West Albury Via West Albury,3,FF8200,FFFFFF
+6,902,NSW902,South Albury Via South Albury,3,FF8200,FFFFFF
+6,903,NSW903,East Albury Via Base Hospital,3,FF8200,FFFFFF
+6,904,2,"Rodney Park Via Rumbalara Co-Op, Echuca Rd",3,FF8200,FFFFFF
+6,906,NSW906,Lavington - Albury Via North Albury & Springdale Heights,3,FF8200,FFFFFF
+6,907,NSW907,"Quicks Hill - Albury Via TAFE, Glenroy & Lavington",3,FF8200,FFFFFF
+6,908,NSW908,"Thurgoona - Albury Via North Albury, Lavington & University",3,FF8200,FFFFFF
+6,909,NSW909,Thurgoona - Albury Via Hospital & Airport,3,FF8200,FFFFFF
+6,920,250/300,Merbein - Mildura City Via Seventeenth St,3,FF8200,FFFFFF
+6,921,100/200,Red Cliffs - Mildura City Via Red Cliffs,3,FF8200,FFFFFF
+6,935,,Korumburra - Korumburra (via King St-Commercial St) Via Korumburra,3,FF8200,FFFFFF
+6,946,South - Schools AM,Swan Hill Via Swan Hill,3,FF8200,FFFFFF
+6,947,,Stratford - Sale Via Stratford,3,FF8200,FFFFFF
+6,949,South - Schools PM,Swan Hill South Via Swan Hill South,3,FF8200,FFFFFF
+6,959,,"Chiltern - Wangaratta Via Springhurst, Rutherglen",3,FF8200,FFFFFF
+6,960,,"Wangaratta - Yarrawonga Via Peechelba, Killawarra",3,FF8200,FFFFFF
+6,973,,Leongatha - Wonthaggi Via Inverloch,3,FF8200,FFFFFF
+6,976,,Wonthaggi - Cape Paterson Via Wonthaggi,3,FF8200,FFFFFF
+6,977,,"Wonthaggi - Coronet Bay/Corinella Via Corinella, Anderson",3,FF8200,FFFFFF
+6,984,1,Albury - Corowa Via Howlong,3,FF8200,FFFFFF
+6,992,1,Hamilton (Route 1) Via Coleraine Rd,3,FF8200,FFFFFF
+6,994,,"Mortlake - Warrnambool Via Ballangeich, Ellerslie",3,FF8200,FFFFFF
+6,99x,,Mount Egerton Via Gordon,3,FF8200,FFFFFF
+6,99y,,Hepburn Springs - Ballan Via Daylesford,3,FF8200,FFFFFF
+6,ALX,,"Marysville - Alexandra Via Taggerty, Buxton",3,FF8200,FFFFFF
+6,Apr,,Hopkins Correctional Centre - Ararat Via Hopkins Correctional Centre,3,FF8200,FFFFFF
+6,Ar1,1,"Ararat West Via Brewster St, Lowe St",3,FF8200,FFFFFF
+6,Ar2,2,"Ararat South Via Burke Rd, Churchill Av",3,FF8200,FFFFFF
+6,Ar3,3,"Ararat North Via Baird St, NMIT, Alfred St",3,FF8200,FFFFFF
+6,ArM,,Maryborough - Ararat Via Avoca,3,FF8200,FFFFFF
+6,ArS,,Ararat - Stawell Via Great Western,3,FF8200,FFFFFF
+6,B05,5,Kangaroo Flat - Huntly Via Bendigo Station,3,FF8200,FFFFFF
+6,B15,15,Brown Hill - Ballarat Station Via Brown Hill,3,FF8200,FFFFFF
+6,B50,50,Epsom Station - Bendigo Station Via Goynes Rd,3,FF8200,FFFFFF
+6,B51,51,Eaglehawk - Bendigo Station Via Jackass Flat,3,FF8200,FFFFFF
+6,B52,52,Eaglehawk - Bendigo Station Via Arnold St,3,FF8200,FFFFFF
+6,B53,53,Eaglehawk - Bendigo Station Via Eaglehawk Rd,3,FF8200,FFFFFF
+6,B54,54,Maiden Gully - Bendigo Station Via Calder Hwy,3,FF8200,FFFFFF
+6,B55,55,Kangaroo Flat - Bendigo Station Via Golden Square,3,FF8200,FFFFFF
+6,B60,60,East Bendigo - Bendigo Station Via East Bendigo,3,FF8200,FFFFFF
+6,B61,61,La Trobe University - Bendigo Station Via Strathdale,3,FF8200,FFFFFF
+6,B62,62,Spring Gully - Bendigo Station Via La Trobe University,3,FF8200,FFFFFF
+6,B63,63,La Trobe University - Bendigo Hospital Via Bendigo Station,3,FF8200,FFFFFF
+6,B64,64,Golden Square - Bendigo Station Via Quarry Hill,3,FF8200,FFFFFF
+6,B65,65,Spring Gully - Bendigo Station Via Carpenter St,3,FF8200,FFFFFF
+6,B70,70,Strathfieldsaye - Bendigo Station Via Strathfieldsaye,3,FF8200,FFFFFF
+6,B71,71,"Strathfieldsaye SC (Loop) Via Strathfieldsaye, Junortoun",3,FF8200,FFFFFF
+6,BGN,,Goornong - Bendigo Via Goornong,3,FF8200,FFFFFF
+6,BM8,Barmah 8,Barmah - Echuca Via Barmah,3,FF8200,FFFFFF
+6,BNI,1,Benalla West Via Benalla West,3,FF8200,FFFFFF
+6,BNZ,2,Benalla East Via Benalla East,3,FF8200,FFFFFF
+6,Bor,,"Bendigo - Boort Via Wedderburn, Inglewood",3,FF8200,FFFFFF
+6,Bx3,433,Hillview Estate - Bacchus Marsh Via Bacchus Marsh Station,3,FF8200,FFFFFF
+6,Bx4,434,Bacchus Marsh Station - Telford Park Via Bacchus Marsh,3,FF8200,FFFFFF
+6,Bx5,435,Bacchus Marsh Station - Darley Via Bacchus Marsh,3,FF8200,FFFFFF
+6,BxW,,"Woomelang - Bendigo Via Wedderburn, Charlton, Birchip",3,FF8200,FFFFFF
+6,C27,C27,Smythesdale - Delacombe Via Haddon,3,FF8200,FFFFFF
+6,CL1,1,Colac - Elliminyt Via Lavers Hill Rd,3,FF8200,FFFFFF
+6,CL3,3,Colac East - Colac Via Church St,3,FF8200,FFFFFF
+6,CMO,,"Marengo - Colac Via Forrest, Skenes Creek, Apollo Bay",3,FF8200,FFFFFF
+6,DWB,Wangaratta-Bright,Bright - Wangaratta Via Bright,3,FF8200,FFFFFF
+6,Ec4,4,Echuca - Cunningham Downs Retirement Village Via Echuca,3,FF8200,FFFFFF
+6,Ec5,5,Echuca - 24 Lane Via Moama,3,FF8200,FFFFFF
+6,Eur,,Euroa - Shepparton Via Kialla,3,FF8200,FFFFFF
+6,G01,1,"Deakin University - North Shore Station Via Thompson Rd, Colac Rd",3,FF8200,FFFFFF
+6,G10,10,Lara South - Lara Station Via Forest Rd,3,FF8200,FFFFFF
+6,G11,11,Lara East - Lara Station Via Rennie St,3,FF8200,FFFFFF
+6,G12,12,Lara West - Lara Station Via Lara West,3,FF8200,FFFFFF
+6,G19,19,"Bannockburn - Geelong Station Via Batesford, Gheringhap",3,FF8200,FFFFFF
+6,G20,20,Corio SC - Geelong Station Via Melbourne Rd,3,FF8200,FFFFFF
+6,G22,22,Geelong Station - North Shore Station Via Anakie Rd,3,FF8200,FFFFFF
+6,G23,23,"Corio SC - North Shore Via Station St, Rosewall",3,FF8200,FFFFFF
+6,G24,24,"Geelong Station - North Geelong Station Via Herne Hill, Newtown",3,FF8200,FFFFFF
+6,G25,25,"Bell Post Hill - Geelong Station Via Autumn St, McCurdy Rd",3,FF8200,FFFFFF
+6,G30,30,Whittington - Geelong Station Via Newcomb,3,FF8200,FFFFFF
+6,G31,31,St Albans Park - Geelong Station Via St Albans Park,3,FF8200,FFFFFF
+6,G32,32,Leopold - Geelong Station Via Bellarine Hwy,3,FF8200,FFFFFF
+6,G40,40,"Deakin University - Geelong Station Via Breakwater, Grovedale",3,FF8200,FFFFFF
+6,G41,41,Deakin University - Geelong Station Via Grovedale,3,FF8200,FFFFFF
+6,G42,42,Deakin University - Geelong Station Via South Valley Rd,3,FF8200,FFFFFF
+6,G43,43,Deakin University - Geelong Station Via Highton,3,FF8200,FFFFFF
+6,G49,49,Kalkee Ret Village - Belmont Village SC Via Kalkee Ret Village,3,FF8200,FFFFFF
+6,G50,50,"Jan Juc - Geelong Station Via Marshall Station, Wombah Park",3,FF8200,FFFFFF
+6,G51,51,"Jan Juc - Geelong Station Via Torquay, Marshall Station",3,FF8200,FFFFFF
+6,G55,55,"Ocean Grove - Geelong Station Via Marshall Station, Barwon Heads",3,FF8200,FFFFFF
+6,G56,56,"Queenscliff - Geelong Station Via Leopold, Ocean Grove",3,FF8200,FFFFFF
+6,G60,60,St Leonards - Geelong Station Via Portarlington,3,FF8200,FFFFFF
+6,G61,61,"Drysdale - Geelong Station Via Clifton Springs, Leopold",3,FF8200,FFFFFF
+6,GIV,,Inverleigh - Corio St/Moorabool St (Geelong) Via Fyansford,3,FF8200,FFFFFF
+6,GVL,101,"Geelong - Apollo Bay Via Lorne, Torquay",3,FF8200,FFFFFF
+6,H46,H46,Wangaratta - Glenrowan Via Wangaratta,3,FF8200,FFFFFF
+6,HA2,2,Hamilton (Route 2) Via Kent Rd,3,FF8200,FFFFFF
+6,HA3,3,Hamilton (Route 3) Via Ballarat Rd,3,FF8200,FFFFFF
+6,HR1,1,Shirley Street - Natimuk Road Via Town Centre,3,FF8200,FFFFFF
+6,HR2,2,"Shirley Street - Natimuk Road Via Town Centre, Hospital",3,FF8200,FFFFFF
+6,HR3,3,South Bank - Wawunna Road Via Town Centre,3,FF8200,FFFFFF
+6,HR4,4,Haven - Horsham Via Haven,3,FF8200,FFFFFF
+6,HR5,5,Horsham Station - Roberts Ave Via Horsham Station,3,FF8200,FFFFFF
+6,Hpt,,Penshurst - Hamilton Via Tarrington,3,FF8200,FFFFFF
+6,KM1,,Kilmore East Railway Station - Kilmore Via Kilmore East Railway Station,3,FF8200,FFFFFF
+6,KWR,,Koo-Wee-Rup - Pakenham Via Koo-Wee-Rup,3,FF8200,FFFFFF
+6,KY1,1,Kyneton Town Centre - Kyneton Station Via Kyneton Town Centre,3,FF8200,FFFFFF
+6,KY2,2,Kyneton Station - Kyneton Town Centre Via Kyneton Station,3,FF8200,FFFFFF
+6,KY3,3,Kyneton Town Centre - Kyneton Station Via Kyneton Town Centre,3,FF8200,FFFFFF
+6,KY4,4,Kyneton Town Centre - Trentham Via Kyneton Town Centre,3,FF8200,FFFFFF
+6,KeE,,Kerang - Echuca Via Kerang,3,FF8200,FFFFFF
+6,Kym,,Kyneton Town Centre - Malmsbury Via Kyneton Town Centre,3,FF8200,FFFFFF
+6,L01,1,Moe - Traralgon Via Morwell,3,FF8200,FFFFFF
+6,L02,2,Churchill - Morwell Via Churchill,3,FF8200,FFFFFF
+6,L03,3,Churchill - Traralgon Via Churchill,3,FF8200,FFFFFF
+6,L04,4,Boolarra - Churchill Via Yinnar,3,FF8200,FFFFFF
+6,L05,5,"Moe - Traralgon Via Tyers, Yallourn Nth",3,FF8200,FFFFFF
+6,L06,6,Traralgon South Via Traralgon South,3,FF8200,FFFFFF
+6,L07,7,"Churchill - Traralgon Via Hazelwood Nth, Federation University",3,FF8200,FFFFFF
+6,L08,8,Moe - Traralgon Via Morwell,3,FF8200,FFFFFF
+6,L09,9,Churchill - Traralgon Via Churchill,3,FF8200,FFFFFF
+6,L11,11,Moe West Via Moe West,3,FF8200,FFFFFF
+6,L12,12,Moe South Via Moe South,3,FF8200,FFFFFF
+6,L13,13,Moe North Via Moe North,3,FF8200,FFFFFF
+6,L14,14,Moe Via Old Sale Rd,3,FF8200,FFFFFF
+6,L15,15,Moe Via Dinwoodie Dr,3,FF8200,FFFFFF
+6,L20,20,Morwell South Via Morwell South,3,FF8200,FFFFFF
+6,L21,21,Morwell - Mid Valley SC Via Morwell,3,FF8200,FFFFFF
+6,L22,22,Morwell - Mid Valley SC Via Hourigan Rd,3,FF8200,FFFFFF
+6,L30,30,Churchill Town Service Via Churchill Town Service,3,FF8200,FFFFFF
+6,L40,40,Traralgon Plaza SC Via Cross's Rd,3,FF8200,FFFFFF
+6,L41,41,Traralgon West Via Traralgon West,3,FF8200,FFFFFF
+6,L42,42,Southside Via Southside,3,FF8200,FFFFFF
+6,L43,43,Traralgon East Via Traralgon East,3,FF8200,FFFFFF
+6,L44,44,Traralgon Plaza SC Via Ellavale Dr,3,FF8200,FFFFFF
+6,L45,45,Traralgon North Via Traralgon North,3,FF8200,FFFFFF
+6,LGs,,Lancefield -  Gisborne Town Centre Via Lancefield,3,FF8200,FFFFFF
+6,La1,1,Lakes Entrance - Kalimna Via Lakes Entrance,3,FF8200,FFFFFF
+6,La2,2,Lakes Entrance - Lakes Entrance (North) Via Lakes Entrance,3,FF8200,FFFFFF
+6,La3,3,Lakes Entrance - Lakes Entrance (East) Via Lakes Entrance,3,FF8200,FFFFFF
+6,LcS,,Lancefield - Sunbury Via Lancefield,3,FF8200,FFFFFF
+6,M40,400,Mildura Central SC Via East Mildura,3,FF8200,FFFFFF
+6,M41,401,Mildura City Via East Mildura,3,FF8200,FFFFFF
+6,M50,500,Mildura Central SC Via West Mildura,3,FF8200,FFFFFF
+6,M51,501,Mildura City Via West Mildura,3,FF8200,FFFFFF
+6,M60,600,Mildura Central SC Via Mildura Central SC,3,FF8200,FFFFFF
+6,M61,601,Mildura Central SC Via Mildura South,3,FF8200,FFFFFF
+6,M62,602,Mildura City Via Mildura City,3,FF8200,FFFFFF
+6,MB3,3,Pascoe - Maryborough Via Loch St,3,FF8200,FFFFFF
+6,MB4,4,Maryborough Education Centre - Maryborough Via Gladstone St,3,FF8200,FFFFFF
+6,MLH,,"Horsham - Mildura Via Ouyen, Warracknabeal",3,FF8200,FFFFFF
+6,MUR,,Rupanyup Via Rupanyup,3,FF8200,FFFFFF
+6,Ma1,,Glassford Street - Maffra Post Office Via Maffra Hospital,3,FF8200,FFFFFF
+6,Mab,,Maryborough - Maryborough Station Via Maryborough,3,FF8200,FFFFFF
+6,MiS,,Mildura - Sea Lake Via Ouyen,3,FF8200,FFFFFF
+6,MtB,,"Mt Beauty - Albury Via Baranduda, Kergunya, Tawonga South",3,FF8200,FFFFFF
+6,MtE,,Mt Egerton - Ballarat Via Gordon,3,FF8200,FFFFFF
+6,Mx1,1,Hedges - Maryborough Via Derby Rd,3,FF8200,FFFFFF
+6,Mx2,2,Princes Park/Whirrakee - Maryborough Via Holyrood St,3,FF8200,FFFFFF
+6,Nar,,"Naracoorte - Horsham Via Natimuk, Goroke, Edenhope",3,FF8200,FFFFFF
+6,Ouy,,Ouyen - Pinnaroo Via Mallee Hwy,3,FF8200,FFFFFF
+6,PT1,1,Portland Via Portland,3,FF8200,FFFFFF
+6,PT2,2,Portland Via Portland,3,FF8200,FFFFFF
+6,R01,,Restdown Retirement Village Via Restdown Retirement Village,3,FF8200,FFFFFF
+6,R11,,"Donald - Horsham Via Murtoa, Rupanyup, Minyip",3,FF8200,FFFFFF
+6,R12,,Swan Hill - Sea Lake Via Lake Boga or Ultima,3,FF8200,FFFFFF
+6,R13,,Birchip - Horsham Via Warracknabeal,3,FF8200,FFFFFF
+6,R14,,"Hopetoun - Horsham Via Dimboola, Rainbow",3,FF8200,FFFFFF
+6,R21,,Robinvale - Mildura Via Euston,3,FF8200,FFFFFF
+6,R22,,"Ballarat - Stawell Via Ararat, Beaufort",3,FF8200,FFFFFF
+6,R30,5,"Taradale - Castlemaine Via Chewton, Elphinstone",3,FF8200,FFFFFF
+6,R36,3,Castlemaine - Harcourt Via Castlemaine,3,FF8200,FFFFFF
+6,R37,2,Castlemaine Via Castlemaine Hospital,3,FF8200,FFFFFF
+6,R53,,Cheshunt - Wangaratta Via Wangaratta - Whitfield Rd,3,FF8200,FFFFFF
+6,R54,Dudley,Wonthaggi Via Dudley,3,FF8200,FFFFFF
+6,R95,,Kyneton - Woodend Via Kyneton,3,FF8200,FFFFFF
+6,RsK,,Kyneton Town Centre - Lancefield Via Kyneton Town Centre,3,FF8200,FFFFFF
+6,S01,1,Stawell South Via Stawell South,3,FF8200,FFFFFF
+6,S02,2,Stawell North Via Stawell North,3,FF8200,FFFFFF
+6,SBO,,Bendigo Station - Shepparton Station Via Bendigo Station,3,FF8200,FFFFFF
+6,SY1,1,Seymour East Via Seymour East,3,FF8200,FFFFFF
+6,SY2,2,Seymour North Via Seymour North,3,FF8200,FFFFFF
+6,SY3,3,Puckapunyal Via Puckapunyal,3,FF8200,FFFFFF
+6,SY4,4,Seymour (AM peak) Via Seymour (AM peak),3,FF8200,FFFFFF
+6,SY5,5,Seymour Nth East (PM peak) Via Seymour Nth East (PM peak),3,FF8200,FFFFFF
+6,Sea,,Seaspray - Sale Via Longford,3,FF8200,FFFFFF
+6,Sh1,1,Parkside Gardens Via GV Health,3,FF8200,FFFFFF
+6,Sh2,2,Parkside Gardens Via The Boulevard,3,FF8200,FFFFFF
+6,Sh3,3,GOTAFE William Orr Campus - Shepparton Via Golf Drive,3,FF8200,FFFFFF
+6,Sh4,4,Shepparton - Connolly Park Via Shepparton,3,FF8200,FFFFFF
+6,Sh5,5,Shepparton - Archer Via Shepparton,3,FF8200,FFFFFF
+6,Sh6,6,Shepparton - South East Via Shepparton,3,FF8200,FFFFFF
+6,Sh7,7,Shepparton - Marketplace Via Shepparton,3,FF8200,FFFFFF
+6,Sh8,8,Shepparton - Kialla Via Shepparton,3,FF8200,FFFFFF
+6,Sh9,9,Aquamoves - Shepparton Via Aquamoves,3,FF8200,FFFFFF
+6,StA,,Stawell - St Arnaud Via Ararat,3,FF8200,FFFFFF
+6,StH,,Stawell - Horsham Via Western Hwy,3,FF8200,FFFFFF
+6,StS,,Stawell - St Arnaud Via Marnoo,3,FF8200,FFFFFF
+6,Tal,,"Tallangatta - Albury Via Killara, Bonegilla, Red Bluff",3,FF8200,FFFFFF
+6,Tim,,Timboon - Camperdown Via Camperdown - Cobden Rd,3,FF8200,FFFFFF
+6,V63,V63,Eildon - Alexandra Via Thornton,3,FF8200,FFFFFF
+6,W04,404,Yarrunga - Wangaratta Via Mason St,3,FF8200,FFFFFF
+6,W12,Wallan Link A,Wallan Station Link A Via Wallan Central,3,FF8200,FFFFFF
+6,W80,80,Warragul South - Warragul Station Via Warragul South,3,FF8200,FFFFFF
+6,W81,81,Warragul North - Warragul Station Via Warragul North,3,FF8200,FFFFFF
+6,W82,82,Warragul North - Warragul Station Via Warragul North,3,FF8200,FFFFFF
+6,W83,83,Warragul East - Warragul Station Via Warragul East,3,FF8200,FFFFFF
+6,W85,85,Warragul Station - Drouin Station Via Warragul Station,3,FF8200,FFFFFF
+6,W86,86,Drouin North - Drouin Station Via Drouin North,3,FF8200,FFFFFF
+6,W89,89,Noojee - Warragul Station Via Buln Buln,3,FF8200,FFFFFF
+6,WGP,,"Poowong East - Warragul Via Poowong, Athlone, Drouin",3,FF8200,FFFFFF
+6,WN1,Wallan 1,Wallan Station - Wallan Central Via Wallan Station,3,FF8200,FFFFFF
+6,WN2,Wallan 2,Wallan Station - Springridge Via Wallan Station,3,FF8200,FFFFFF
+6,WN3,Wallan 3,Wallan Station - Wallara Waters Shuttle Via Wallan Station,3,FF8200,FFFFFF
+6,WPC,,Timboon - Warrnambool Via Port Campbell,3,FF8200,FFFFFF
+6,WoE,E,East Wodonga Via East Wodonga,3,FF8200,FFFFFF
+6,WoS,S,South Wodonga Via South Wodonga,3,FF8200,FFFFFF
+6,Woo,,Woods Point - Mansfield Via Jamieson,3,FF8200,FFFFFF
+6,Wyc,,Wycheproof - Swan Hill Via Lalbert,3,FF8200,FFFFFF
+6,YFR,,Yarrawonga Via GP,3,FF8200,FFFFFF
+6,a18,12,Gelantipy - Bairnsdale Via Lakes Entrance,3,FF8200,FFFFFF
+6,a19,4,Sale Station Via Reeve Street,3,FF8200,FFFFFF
+6,a20,401,West End - Wangaratta Via West End,3,FF8200,FFFFFF
+6,a21,402,Yarrunga - Wangaratta Via Murdoch Rd,3,FF8200,FFFFFF
+6,a22,403,Yarrawonga Road - Wangaratta Via Yarrawonga Road,3,FF8200,FFFFFF
+6,a23,,Albury/Wodonga - Corryong Via Walwa,3,FF8200,FFFFFF
+6,a25,,Hamilton - Portland Via Heywood,3,FF8200,FFFFFF
+6,a28,tv,Tooleybuc - Swan Hill Via Nyah West,3,FF8200,FFFFFF
+6,a29,,Bendigo - Ballarat Via Maryborough,3,FF8200,FFFFFF
+6,a30,7,Loch Sport - Sale Via Longford,3,FF8200,FFFFFF
+6,a31,7,"Beechworth - Albury Via Wodonga, Yackandandah",3,FF8200,FFFFFF
+6,a32,2,Bairnsdale Via East Bairnsdale,3,FF8200,FFFFFF
+6,a33,3,Bairnsdale Via Wy Yung,3,FF8200,FFFFFF
+6,a34,,"Fountain Gate - Cowes Via San Remo, Pakenham",3,FF8200,FFFFFF
+6,a36,1,Westwood Park - Echuca Via Echuca South,3,FF8200,FFFFFF
+6,a37,2,Echuca Via Echuca,3,FF8200,FFFFFF
+6,a38,3,Echuca Via Moama,3,FF8200,FFFFFF
+6,a39,3,"Mooroopna Park Via Echuca Rd, Gange St",3,FF8200,FFFFFF
+6,a40,1,Shepparton - Mooroopna Via McLennan St,3,FF8200,FFFFFF
+6,a42,1,Swan Hill North Via Swan Hill North,3,FF8200,FFFFFF
+6,a43,2,Swan Hill South Via Swan Hill South,3,FF8200,FFFFFF
+6,a44,,Albury - Myrtleford Via Wodonga,3,FF8200,FFFFFF
+6,a47,,"Cowes - Wonthaggi Via Anderson, San Remo",3,FF8200,FFFFFF
+6,a48,North,Wonthaggi Via North Wonthaggi,3,FF8200,FFFFFF
+6,a49,South,Wonthaggi Via South Wonthaggi,3,FF8200,FFFFFF
+6,a50,,Alvie - Colac Via Coragulac,3,FF8200,FFFFFF
+6,alb,,Ararat - Lake Bolac Via Willaura,3,FF8200,FFFFFF
+6,alc,,"Corowa - Albury Via Barnawartha, Rutherglen",3,FF8200,FFFFFF
+6,c06,6,Chewton - Castlemaine Via Loddon Prison,3,FF8200,FFFFFF
+6,cc2,2,Colac - Colac West Via Fyans St,3,FF8200,FFFFFF
+6,cob,,Cobram Via Cobram,3,FF8200,FFFFFF
+6,dpc,,Deer Park Station - Caroline Springs Station Via Deer Park Station,3,FF8200,FFFFFF
+6,gld,Goldrush,Sovereign Hill - Ballarat Station Via Sovereign Hill,3,FF8200,FFFFFF
+6,gvc,,Grantville - Coronet Bay Via Grantville,3,FF8200,FFFFFF
+6,hea,,"Heathcote - Bendigo Via Junortoun, Axedale, Knowsley",3,FF8200,FFFFFF
+6,hep,,Creswick - Hepburn Via Daylesford,3,FF8200,FFFFFF
+6,mal,,Genoa - Mallacoota Via Gipsy Point,3,FF8200,FFFFFF
+6,ome,,Bright - Omeo Via Hotham Heights,3,FF8200,FFFFFF
+6,rok,,"Ballarat - Rokewood Via Dereel, Enfield, Napoleons",3,FF8200,FFFFFF
+6,s05,5,Glebe Estate - Sale Via Port of Sale,3,FF8200,FFFFFF
+6,s06,6,Glenhaven Park - Sale Via Port of Sale,3,FF8200,FFFFFF
+6,w13,,Moe - Albert St Via Moe - Albert St,3,FF8200,FFFFFF
+6,w19,,Garfield Station Via Garfield Station,3,FF8200,FFFFFF
+6,w20,,Moe Station Via Moe Station,3,FF8200,FFFFFF
+6,w28,,Nar Nar Goon Station Via Nar Nar Goon Station,3,FF8200,FFFFFF
+6,w30,,Traralgon Station Via Traralgon Station,3,FF8200,FFFFFF
+6,w31,,Warragul Station Via Warragul Station,3,FF8200,FFFFFF
+6,w32,,Newborough TAFE - Yallourn Via Newborough TAFE - Yallourn,3,FF8200,FFFFFF
+6,w33,,Traralgon Plaza Via Traralgon Plaza,3,FF8200,FFFFFF
+6,w34,,Moe Bus Interchange Via Moe Bus Interchange,3,FF8200,FFFFFF
+6,w35,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6,w36,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6,w37,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6,w38,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6,w39,,Drouin North Via Drouin North,3,FF8200,FFFFFF
+6,w40,,Garfield Station Via Garfield Station,3,FF8200,FFFFFF
+6,w41,,Pakenham Station Via Pakenham Station,3,FF8200,FFFFFF
+6,w76,,Warragul Station Via Warragul Station,3,FF8200,FFFFFF
+6,w77,,Drouin Station Via Drouin Station,3,FF8200,FFFFFF
+6,woM,M,Wodonga Via Mayfair Drive,3,FF8200,FFFFFF
+6,wr1,1,Dennington - Warrnambool Via Dennington,3,FF8200,FFFFFF
+6,wr2,2,Gateway Plaza - Warrnambool Via Centro,3,FF8200,FFFFFF
+6,wr3,3,Deakin University - Warrnambool Via Deakin University,3,FF8200,FFFFFF
+6,wr4,4,Tower Square - Warrnambool Via Tower Square,3,FF8200,FFFFFF
+6,wr5,5,Lake Pertobe Loop Via Lake Pertobe Loop,3,FF8200,FFFFFF
+6,wr6,6,Merrivale - Warrnambool Via Merrivale,3,FF8200,FFFFFF
+6,wr8,8,Port Fairy - Warrnambool Via Port Fairy,3,FF8200,FFFFFF
+6,wr9,9,Allansford - Warrnambool Via Allansford,3,FF8200,FFFFFF
+6,x45,45,Armstrong Creek - Waurn Ponds SC Via Waurn Ponds Station,3,FF8200,FFFFFF
+6,x89,1,Castlemaine Via Campbells Creek,3,FF8200,FFFFFF
+6,xM4,4,Maldon - Castlemaine Via Maldon,3,FF8200,FFFFFF
+7,B01,TeleBus 1,Chirnside Park SC - Lilydale Station,3,FF8200,FFFFFF
+7,B02,TeleBus 2,Chirnside Park SC - Mooroolbark Station,3,FF8200,FFFFFF
+7,B03,TeleBus 3,Chirnside Park SC - Mooroolbark Station,3,FF8200,FFFFFF
+7,B04,TeleBus 4,Croydon Station - Mooroolbark Station,3,FF8200,FFFFFF
+7,B07,TeleBus 7,Stud Park - Ferntree Gully Station,3,FF8200,FFFFFF
+7,B08,TeleBus 8,Stud Park - Ferntree Gully Station,3,FF8200,FFFFFF
+7,B09,TeleBus 9,Stud Park,3,FF8200,FFFFFF
+8,941,941,Watergardens - City,3,FF8200,FFFFFF
+8,941A,941,Watergardens - City,3,FF8200,FFFFFF
+8,943,943,Melton - Watergardens Station,3,FF8200,FFFFFF
+8,943A,943,Melton - Watergardens Station,3,FF8200,FFFFFF
+8,945,945,Wyndham Vale - City,3,FF8200,FFFFFF
+8,945A,945,Wyndham Vale - City,3,FF8200,FFFFFF
+8,951,951,Glenroy - City,3,FF8200,FFFFFF
+8,951A,951,Glenroy - City,3,FF8200,FFFFFF
+8,953,953,Craigieburn - Broadmeadows,3,FF8200,FFFFFF
+8,953A,953,Craigieburn - Broadmeadows,3,FF8200,FFFFFF
+8,955,955,Mernda - City,3,FF8200,FFFFFF
+8,955A,955,Mernda - City,3,FF8200,FFFFFF
+8,961,961,Doncaster - City,3,FF8200,FFFFFF
+8,961A,961,Doncaster - City,3,FF8200,FFFFFF
+8,961B,961,Doncaster - City,3,FF8200,FFFFFF
+8,963,963,Lilydale - Ringwood,3,FF8200,FFFFFF
+8,963A,963,Lilydale - Ringwood,3,FF8200,FFFFFF
+8,964,964,Lilydale - Croydon,3,FF8200,FFFFFF
+8,964A,964,Lilydale - Croydon,3,FF8200,FFFFFF
+8,965,965,Healesville - Healesville,3,FF8200,FFFFFF
+8,965A,965,Healesville - Healesville,3,FF8200,FFFFFF
+8,967,967,Bayswater - Glen Waverley,3,FF8200,FFFFFF
+8,967A,967,Bayswater - Glen Waverley,3,FF8200,FFFFFF
+8,970A,970,Rosebud - Carrum,3,FF8200,FFFFFF
+8,978A,978,Dandenong - Elsternwick Station,3,FF8200,FFFFFF
+8,981A,981,Cranbourne - Dandenong,3,FF8200,FFFFFF
+8,982A,982,Cranbourne - Dandenong,3,FF8200,FFFFFF
