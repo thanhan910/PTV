@@ -9,6 +9,7 @@ import math
 import numpy as np
 
 from .GtfsDataframe import GtfsDataframe
+from .const import GTFS_FILE_FIELDS_TYPES
 
 
 def process_gtfs_zipfile_obj(gtfs_zip: zipfile.ZipFile, version_id: str) -> pd.DataFrame:
@@ -28,7 +29,7 @@ def process_gtfs_zipfile_obj(gtfs_zip: zipfile.ZipFile, version_id: str) -> pd.D
 
                             with transit_zip.open(nested_file_name) as nested_file:
 
-                                df = pd.read_csv(nested_file, keep_default_na=False, low_memory=False, na_values=[''])
+                                df = pd.read_csv(nested_file, keep_default_na=False, low_memory=False, na_values=[''], dtype=GTFS_FILE_FIELDS_TYPES[table_name])
                                 
                                 df_gtfs = {
                                     'table_name': table_name,

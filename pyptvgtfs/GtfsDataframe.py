@@ -1,5 +1,6 @@
 import pandas as pd
 
+from .const import GTFS_FILE_FIELDS_TYPES
 
 def filename_pattern_encode(table_name: str, version_id: str, branch_id: str):
     return f"{table_name}-{version_id}-{branch_id}"
@@ -37,7 +38,7 @@ class GtfsDataframe:
     @staticmethod
     def load(file_path: str):
         table_name, version_id, branch_id = filepath_pattern_decode(file_path)
-        df = pd.read_csv(file_path, keep_default_na=False, low_memory=False)
+        df = pd.read_csv(file_path, keep_default_na=False, low_memory=False, na_values=[''], dtype=GTFS_FILE_FIELDS_TYPES[table_name])
         return GtfsDataframe(df, table_name, branch_id, version_id)
     
 
