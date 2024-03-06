@@ -9,6 +9,14 @@ This project focuses on analyzing the State of Victoria's Public Transport Syste
 - Source: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
 - Download link: http://data.ptv.vic.gov.au/downloads/gtfs.zip
 
+
+## Resources
+
+- https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
+- https://github.com/TransportVic/TransportVic2
+- https://developers.google.com/transit/gtfs/reference
+
+
 ## Data dictionary
 
 GTFS File Fields
