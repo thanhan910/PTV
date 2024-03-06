@@ -1,10 +1,11 @@
 # !pip install --upgrade gtfs-realtime-bindings
-from google.transit import gtfs_realtime_pb2
+# from google.transit import gtfs_realtime_pb2
 import requests
 import datetime as dt
 import time
 import os
 import logging
+import sys
 
 if __name__ == '__main__':
 
@@ -14,15 +15,33 @@ if __name__ == '__main__':
     log_dir = '../local/logs'
     os.makedirs(log_dir, exist_ok=True)
 
-    # Set up logging
-    logging.basicConfig(filename=f'{log_dir}/realtime-server.log', level=logging.INFO)
+    # Create a logger
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
 
-    # Log to console as well
-    console = logging.StreamHandler()
-    console.setLevel(logging.INFO)
+    # Create a handler for logging to file
+    file_handler = logging.FileHandler(f'{log_dir}/realtime-server.log')
+    file_handler.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(message)s')
-    console.setFormatter(formatter)
-    logging.getLogger('').addHandler(console)
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
+
+    # Create a handler for logging to console
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setLevel(logging.INFO)
+    formatter = logging.Formatter('%(asctime)s - %(message)s')
+    console_handler.setFormatter(formatter)
+    logger.addHandler(console_handler)
+
+    # # Set up logging
+    # logging.basicConfig(filename=f'{log_dir}/realtime-server.log', level=logging.INFO)
+
+    # # Log to console as well
+    # console = logging.StreamHandler()
+    # console.setLevel(logging.INFO)
+    # formatter = logging.Formatter('%(asctime)s - %(message)s')
+    # console.setFormatter(formatter)
+    # logging.getLogger('').addHandler(console)
 
 
     env_dirs = ['..', '.', '../notebooks', '../scripts']
