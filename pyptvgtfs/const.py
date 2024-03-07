@@ -25,11 +25,11 @@ ROUTE_TYPES_LONG = {
     12 : 'Monorail. Railway in which the track consists of a single rail or a beam.',
 }
 
-# All operational branch IDs
-BRANCH_IDS_ALL = ['1', '2', '3', '4', '5', '6', '7', '8', '10', '11']
+# All mode IDs
+MODE_IDS_ALL = ['1', '2', '3', '4', '5', '6', '7', '8', '10', '11']
 
-# Operational branch IDs that contains mostly non-empty data
-BRANCH_IDS = ['1', '2', '3', '4', '5', '6', '10', '11']
+# Operational MODE IDs that contains mostly non-empty data
+MODE_IDS = ['1', '2', '3', '4', '5', '6', '10', '11']
 
 # All GTFS Table Names
 TABLE_NAMES = ['stop_times', 'stops', 'trips', 'routes', 'calendar', 'calendar_dates', 'agency', 'shapes']

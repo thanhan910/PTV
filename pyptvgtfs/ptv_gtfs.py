@@ -16,8 +16,8 @@ def process_gtfs_zipfile_obj(gtfs_zip: zipfile.ZipFile, version_id: str) -> pd.D
     dfs = []
     for item in gtfs_zip.namelist():
         if item.endswith('/'): # Check if the item is a directory
-            branch_id = item.strip('/')
-            google_transit_zip_path = f"{branch_id}/google_transit.zip"
+            mode_id = item.strip('/')
+            google_transit_zip_path = f"{mode_id}/google_transit.zip"
             with gtfs_zip.open(google_transit_zip_path) as google_transit_file:
                 with zipfile.ZipFile(google_transit_file, 'r') as transit_zip:
                     nested_file_list = transit_zip.namelist()
@@ -25,7 +25,7 @@ def process_gtfs_zipfile_obj(gtfs_zip: zipfile.ZipFile, version_id: str) -> pd.D
                         if nested_file_name.endswith('.txt'):
 
                             table_name = nested_file_name.removesuffix('.txt')
-                            logging.info(f"Processing {branch_id} {table_name} {version_id}")
+                            logging.info(f"Processing {mode_id} {table_name} {version_id}")
 
                             with transit_zip.open(nested_file_name) as nested_file:
 
@@ -33,14 +33,14 @@ def process_gtfs_zipfile_obj(gtfs_zip: zipfile.ZipFile, version_id: str) -> pd.D
                                 
                                 df_gtfs = {
                                     'table_name': table_name,
-                                    'branch_id': branch_id,
+                                    'mode_id': mode_id,
                                     'version_id': version_id,
                                     'df': df
                                 }
                                 
                                 dfs.append(df_gtfs)
                     
-            logging.info(f"Processed {branch_id}")
+            logging.info(f"Processed {mode_id}")
 
     return pd.DataFrame(dfs)
         

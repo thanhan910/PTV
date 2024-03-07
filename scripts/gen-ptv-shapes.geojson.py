@@ -29,7 +29,7 @@ ROUTE_TYPES_LONG = {
 }
 
 # https://data.ptv.vic.gov.au/downloads/GTFSReleaseNotes.pdf
-BRANCH_NAMES = {
+MODE_NAMES = {
     '1' : 'Regional Train',
     '2' : 'Metropolitan Train',
     '3' : 'Metropolitan Tram',
@@ -43,28 +43,28 @@ BRANCH_NAMES = {
 }
 
 
-branch_ids_all = ['1', '2', '3', '4', '5', '6', '7', '8', '10', '11']
-branch_ids = ['1', '2', '3', '4', '5', '6', '10', '11']
-table_names = ['stop_times', 'stops', 'trips', 'routes', 'calendar', 'calendar_dates', 'agency', 'shapes']
+MODE_IDS_ALL = ['1', '2', '3', '4', '5', '6', '7', '8', '10', '11']
+MODE_IDS = ['1', '2', '3', '4', '5', '6', '10', '11']
+TABLE_NAMES = ['stop_times', 'stops', 'trips', 'routes', 'calendar', 'calendar_dates', 'agency', 'shapes']
 
-def get_df(branch_id, table_name):
-    files = [os.path.join(data_directory, f) for f in os.listdir(data_directory) if f.split('-')[1] == str(branch_id) and f.split('-')[2] == table_name]
+def get_df(mode_id, table_name):
+    files = [os.path.join(data_directory, f) for f in os.listdir(data_directory) if f.split('-')[1] == str(mode_id) and f.split('-')[2] == table_name]
     if len(files) == 0:
         return None
     return pd.concat([pd.read_csv(f) for f in files])
 
-df = {branch_id: {table_name: get_df(branch_id, table_name) for table_name in table_names} for branch_id in branch_ids_all}
+df = {mode_id: {table_name: get_df(mode_id, table_name) for table_name in TABLE_NAMES} for mode_id in MODE_IDS_ALL}
 
 os.makedirs(os.path.join('..', 'data', 'ptv', 'shapes'), exist_ok=True)
 
-for bid in branch_ids:
-    df_shapes = df[bid]['shapes'].groupby('shape_id')[['shape_pt_lon', 'shape_pt_lat']].apply(lambda x: x.to_numpy())
+for mid in MODE_IDS:
+    df_shapes = df[mid]['shapes'].groupby('shape_id')[['shape_pt_lon', 'shape_pt_lat']].apply(lambda x: x.to_numpy())
     df_shapes = df_shapes.transform(lambda x: sg.LineString(x))
     df_shapes.rename('geometry', inplace=True)
     df_shapes = df_shapes.reset_index()
     gdf = gpd.GeoDataFrame(df_shapes, geometry='geometry')
     # gdf = gpd.GeoDataFrame(df_shapes, geometry='geometry')
-    gdf.to_file(os.path.join('..', 'data', 'ptv', 'shapes', f'{bid}.geojson'))
+    gdf.to_file(os.path.join('..', 'data', 'ptv', 'shapes', f'{mid}.geojson'))
 # 1m 30s -3m 30s
 
 df5_shapes = df['5']['shapes'].groupby('shape_id')[['shape_pt_lon', 'shape_pt_lat']].apply(lambda x: x.to_numpy())
