@@ -49,8 +49,14 @@ def parse_helper(entity):
 def parse_gtfs_realtime_feed(feed):
     return [parse_helper(entity) for entity in feed.entity]
 
+# Sort files by date and time
+files = sorted(files, key=lambda x: (x.split('_')[1], x.split('_')[2]))
 
 for f in files:
+    # Skip files that have already been parsed
+    if os.path.exists(f'{output_dir}/{f.split(".")[0]}.json'):
+        logger.info(f'Skipping file: {f}')
+        continue
     with open(f'{dataset_dir}/{f}', 'rb') as file:
         try:
             file_name = f.split('.')[0]
