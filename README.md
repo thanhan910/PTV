@@ -1,10 +1,14 @@
-# PTV GTFS Data Analysis
+# PTV GTFS Data 
+
 - Project started on 3 April 2022.
 - Project updated in July 2022, August 2023, October 2023, and so on.
 
 This project focuses on analyzing the State of Victoria's Public Transport System. (PTV) through its GTFS data.
 
 ## Data source
+
+
+Source: Licensed from Public Transport Victoria under a Creative Commons Attribution 4.0 International Licence.
 
 - Source: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
 - Download link: http://data.ptv.vic.gov.au/downloads/gtfs.zip
