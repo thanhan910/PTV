@@ -1,5 +1,6 @@
 import numpy as np
 
+# Source: https://developers.google.com/transit/gtfs/reference
 ROUTE_TYPES = {
     0 : 'Tram',
     1 : 'Metro',
@@ -28,8 +29,25 @@ ROUTE_TYPES_LONG = {
 # All mode IDs
 MODE_IDS_ALL = ['1', '2', '3', '4', '5', '6', '7', '8', '10', '11']
 
-# Operational MODE IDs that contains mostly non-empty data
+# Operational MODE IDs except IDs that contain empty data
 MODE_IDS = ['1', '2', '3', '4', '5', '6', '10', '11']
+
+# Mode names
+# Source: 
+# https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
+# https://data.ptv.vic.gov.au/downloads/GTFSReleaseNotes.pdf
+MODE_NAMES = {
+    '1': 'Regional Train',
+    '2': 'Metropolitan Train',
+    '3': 'Metropolitan Tram',
+    '4': 'Metropolitan Bus',
+    '5': 'Regional Coach',
+    '6': 'Regional Bus',
+    '7': 'TeleBus',
+    '8': 'Night Bus',
+    '10': 'Interstate',
+    '11': 'SkyBus',
+}
 
 # All GTFS Table Names
 TABLE_NAMES = ['stop_times', 'stops', 'trips', 'routes', 'calendar', 'calendar_dates', 'agency', 'shapes']
