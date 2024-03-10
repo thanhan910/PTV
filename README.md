@@ -1,24 +1,50 @@
-# PTV GTFS Data 
+# PTV Data 
 
-- Project started on 3 April 2022.
-- Project updated in July 2022, August 2023, October 2023, and so on.
+This project focuses on analyzing the State of Victoria's Public Transport System (PTV) through its publicly available data.
 
-This project focuses on analyzing the State of Victoria's Public Transport System. (PTV) through its GTFS data.
-
-## Data source
-
+## Data sources
 
 Source: Licensed from Public Transport Victoria under a Creative Commons Attribution 4.0 International Licence.
 
-- Source: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
+- https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
+
+### PTV Timetable API
+
+To register for a Developer ID and an API key, you may need to send an email to PTV. Refer to https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/ptv-timetable-api/ for more information.
+
+- Home page: https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/ptv-timetable-api/
+- Swagger UI: https://timetableapi.ptv.vic.gov.au/swagger/ui/index
+- Swagger Docs JSON: https://timetableapi.ptv.vic.gov.au/swagger/docs/v3 (You can use this to find the endpoints you want to use.)
+
+### PTV Spatial Datasets
+
+- Home page: https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
+- Combined datasets collection source: https://datashare.maps.vic.gov.au/search?q=uuid%3D1792cbe0-25e5-52a0-8bc2-cc2294051634
+
+### PTV's GTFS Data
+
+- Home page: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
 - Download link: http://data.ptv.vic.gov.au/downloads/gtfs.zip
 
+### PTV's GTFS Real-Time Data
+
+- Data available at: https://data-exchange.vicroads.vic.gov.au/
+- Data sources listed in: https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
+
+Refer to https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/GTFS-Realtime/GTFS-R%20Technical%20Feed%20Specification.pdf for how to access PTV's GTFS-R feed from https://data-exchange.vicroads.vic.gov.au/.
 
 ## Resources
 
+- https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
 - https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
-- https://github.com/TransportVic/TransportVic2
 - https://developers.google.com/transit/gtfs/reference
+- https://github.com/TransportVic/TransportVic2
+- https://anytrip.com.au/
+
+
+## Project information
+
+- Project started on 3 April 2022.
 
 
 ## Data dictionary
