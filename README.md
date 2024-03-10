@@ -21,6 +21,10 @@ To register for a Developer ID and an API key, you may need to send an email to 
 - Home page: https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
 - Combined datasets collection source: https://datashare.maps.vic.gov.au/search?q=uuid%3D1792cbe0-25e5-52a0-8bc2-cc2294051634
 
+You may need to add it to your cart and download it from the cart. Then the dataset will be sent to your email.
+
+If you are using Python and geopandas, you can choose the SHP format.
+
 ### PTV's GTFS Data
 
 - Home page: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
