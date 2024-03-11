@@ -37,6 +37,10 @@ If you are using Python and geopandas, you can choose the SHP format.
 
 Refer to https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/GTFS-Realtime/GTFS-R%20Technical%20Feed%20Specification.pdf for how to access PTV's GTFS-R feed from https://data-exchange.vicroads.vic.gov.au/.
 
+### Train station codes
+
+- https://vicsig.net/index.php?page=infrastructure&section=codes&sort=n
+
 ## Resources
 
 - https://www.ptv.vic.gov.au/footer/data-and-reporting/datasets/
