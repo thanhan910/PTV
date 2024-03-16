@@ -272,5 +272,5 @@ for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
             time.sleep(30)
             continue
 
-with open(f'{DATA_DIR}/stop_info.json', 'w') as f:
+with open(f'{DATA_DIR}/stops_info.json', 'w') as f:
     f.write(json.dumps(API_STOPS_INFO))
