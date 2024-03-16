@@ -248,7 +248,9 @@ API_all_stop_route_types = [(str(stop_id), str(route_type)) for stop_id, route_t
 
 logger.info(f'Stop id - Route types count: {len(API_all_stop_route_types)}')
 
-os.makedirs(f'{DATA_DIR}/stop_info', exist_ok=True)
+# os.makedirs(f'{DATA_DIR}/stop_info', exist_ok=True)
+
+API_STOPS_INFO = {}
 
 for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
     logger.info(f'[{i}] Getting info for stop {stop_id}, route type {route_type}')
@@ -257,14 +259,18 @@ for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
     while data is None:
         try:
             data = get_data(endpoint)
+            API_STOPS_INFO[stop_id] = API_STOPS_INFO.get(stop_id, {})
+            # API_STOPS_INFO[stop_id][route_type] = json.load(open(f'{DATA_DIR}/stop_info/{stop_id}_{route_type}.json'))
+            API_STOPS_INFO[stop_id][route_type] = data
             # print(f'[{i}] Got data for stop {stop_id}')
             logger.info(f'[{i}] Got data for stop {stop_id}')
-            with open(f'{DATA_DIR}/stop_info/{stop_id}_{route_type}.json', 'w') as f:
-                f.write(json.dumps(data))
+            # with open(f'{DATA_DIR}/stop_info/{stop_id}_{route_type}.json', 'w') as f:
+            #     f.write(json.dumps(data))
         except requests.exceptions.HTTPError:
             # print(f'Failed to get data for stop {stop_id}. Retrying in 30 seconds...')
             logger.warning(f'[{i}] Failed to get data for stop {stop_id}. Retrying in 30 seconds...')
             time.sleep(30)
             continue
 
-
+with open(f'{DATA_DIR}/stop_info.json', 'w') as f:
+    f.write(json.dumps(API_STOPS_INFO))
