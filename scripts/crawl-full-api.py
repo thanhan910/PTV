@@ -9,6 +9,7 @@ import numpy as np
 import logging
 import sys
 import time
+import pyptvgtfs
 SESSION = requests.Session()
 
 ENV = json.load(open('../local-env.json'))
@@ -221,9 +222,9 @@ for route_id, route_type, direction_id in API_route_rtds:
             path['direction_id'] = direction_id
         API_STOPS_GEOPATHS.append(path)
         
-with open(f'{DATA_DIR}/all_stops.json', 'w') as f:
+with open(f'{DATA_DIR}/stops.json', 'w') as f:
     f.write(json.dumps(API_STOPS_STOPS))
-with open(f'{DATA_DIR}/all_stops_geopaths.json', 'w') as f:
+with open(f'{DATA_DIR}/stops_geopaths.json', 'w') as f:
     f.write(json.dumps(API_STOPS_GEOPATHS))
 
 
@@ -252,6 +253,8 @@ logger.info(f'Stop id - Route types count: {len(API_all_stop_route_types)}')
 
 API_STOPS_INFO = {}
 
+FAILED_STOPS = []
+
 for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
     logger.info(f'[{i}] Getting info for stop {stop_id}, route type {route_type}')
     endpoint = f'/v3/stops/{stop_id}/route_type/{route_type}?gtfs=false&stop_location=true&stop_amenities=true&stop_accessibility=true&stop_contact=true&stop_ticket=true&stop_staffing=true&stop_disruptions=false'
@@ -266,11 +269,112 @@ for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
             logger.info(f'[{i}] Got data for stop {stop_id}')
             # with open(f'{DATA_DIR}/stop_info/{stop_id}_{route_type}.json', 'w') as f:
             #     f.write(json.dumps(data))
-        except requests.exceptions.HTTPError:
-            # print(f'Failed to get data for stop {stop_id}. Retrying in 30 seconds...')
-            logger.warning(f'[{i}] Failed to get data for stop {stop_id}. Retrying in 30 seconds...')
-            time.sleep(30)
-            continue
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code in [403, 503, 504]:
+                logger.warning(f'[{i}] [{stop_id} {route_type}] Timeout. Error {e.response.status_code}. Retrying in 30 seconds...')
+                time.sleep(30)
+                continue
+            else:
+                logger.warning(f'[{i}] [{stop_id} {route_type}] Got error {e.response.status_code}.')
+                FAILED_STOPS.append((stop_id, route_type))
+                break
 
 with open(f'{DATA_DIR}/stops_info.json', 'w') as f:
     f.write(json.dumps(API_STOPS_INFO))
+
+with open(f'{DATA_DIR}/failed_stops.json', 'w') as f:
+    f.write(json.dumps(FAILED_STOPS))
+
+API_STOPS_INFO_LIST = []
+
+for stop_id, route_type in API_all_stop_route_types:
+    assert str(API_STOPS_INFO[stop_id][route_type]['stop']['route_type']) == str(route_type)
+    assert str(API_STOPS_INFO[stop_id][route_type]['stop']['stop_id']) == str(stop_id)
+    API_STOPS_INFO_LIST.append(API_STOPS_INFO[stop_id][route_type]['stop'])
+
+for stop_info in API_STOPS_INFO_LIST:
+    stop_info : dict
+    kv_is_dict = [(k, v) for k, v in stop_info.items() if isinstance(v, dict)]
+    for k, v in kv_is_dict:
+        for k2, v2 in v.items():
+            new_key = f'{k}_{k2}'
+            assert new_key not in stop_info, f'{new_key} already exists in {stop_info}'
+            stop_info[new_key] = v2
+        del stop_info[k]
+
+API_DF_STOPS_INFO = pd.DataFrame(API_STOPS_INFO_LIST, dtype=str)
+
+assert API_DF_STOPS_INFO['station_details_id'].unique() == '0'
+
+API_DF_STOPS_INFO.drop(columns=['station_details_id', 'disruption_ids'], inplace=True)
+
+
+API_DF_STOPS_GTFS_MAP = API_DF_STOPS_INFO[['stop_id', 'route_type', 'point_id']].drop_duplicates()
+assert (API_DF_STOPS_GTFS_MAP.groupby(['stop_id', 'point_id'])['route_type'].nunique() == 1).all()
+
+logger.info(f'Start loading GTFS data')
+GTFS = pyptvgtfs.process_gtfs_zip('http://data.ptv.vic.gov.au/downloads/gtfs.zip', '')
+# 1m - 3m
+logger.info(f'Finished loading GTFS data')
+GTFS.drop(columns=['version_id'], inplace=True)
+GTFS_DFS = GTFS.set_index(['mode_id', 'table_name'])['df'].to_dict()
+new_GTFS_DFS = {}
+for mid, v in GTFS_DFS.items():
+    new_GTFS_DFS[mid[0]] = new_GTFS_DFS.get(mid[0], {})
+    new_GTFS_DFS[mid[0]][mid[1]] = v
+GTFS_DFS : dict[str, dict[str, pd.DataFrame]] = new_GTFS_DFS
+for mid in GTFS_DFS:
+    for tn in GTFS_DFS[mid]:
+        GTFS_DFS[mid][tn]['mode_id'] = mid
+
+GTFS_DF_STOPS = pd.concat([GTFS_DFS[mid]['stops'] for mid in GTFS_DFS], ignore_index=True)
+
+GA_DF_STOPS = pd.merge(GTFS_DF_STOPS, API_DF_STOPS_GTFS_MAP, left_on='stop_id', right_on='point_id', how='outer', suffixes=('_gtfs', '_api'))
+
+point_gtfs_mode_id_list = GA_DF_STOPS[GA_DF_STOPS['stop_id_api'].isna()][['stop_id_gtfs', 'mode_id']].apply(tuple, axis=1).unique()
+
+GA_MISSING_STOPS = {}
+priority_route_types = {
+    '1': ['3', '0', '2', '1', '4'],
+    '2': ['0', '3', '2', '1', '4'],
+    '3': ['1', '2', '3', '0', '4'],
+    '4': ['2', '3', '1', '0', '4'],
+    '5': ['3', '2', '1', '0', '4'],
+    '6': ['2', '3', '1', '0', '4'],
+    '7': ['2', '3', '1', '0', '4'],
+    '8': ['2', '3', '1', '0', '4'],
+    '10': ['0', '3', '2', '1', '4'],
+    '11': ['2', '3', '1', '0', '4'],
+}
+FAILED_STOPS_MISSING = []
+logger.info(f'Start getting missing stops')
+logger.info(f'Missing stops count: {len(point_gtfs_mode_id_list)}')
+for i, (point_id, mode_id) in enumerate(point_gtfs_mode_id_list):
+    for route_type in priority_route_types[mode_id]:
+        endpoint = f'/v3/stops/{point_id}/route_type/{route_type}?gtfs=true&stop_location=true&stop_amenities=true&stop_accessibility=true&stop_contact=true&stop_ticket=true&stop_staffing=true&stop_disruptions=false'
+        data = None
+        while data is None:
+            try:
+                data = get_data(endpoint)
+                GA_MISSING_STOPS[point_id] = GA_MISSING_STOPS.get(point_id, {})
+                GA_MISSING_STOPS[point_id][route_type] = data['stop']
+                logger.info(f'[{i}] [{point_id} {route_type}] Got data for stop {point_id}')
+            except requests.exceptions.HTTPError as e:
+                if e.response.status_code in [403, 503, 504]:
+                    logger.warning(f'[{i}] [{point_id} {route_type}] Timeout. Error {e.response.status_code}. Retrying in 30 seconds...')
+                    time.sleep(30)
+                    continue
+                else:
+                    logger.warning(f'[{i}] [{point_id} {route_type}] Got error {e.response.status_code}.')
+                    break
+    if point_id not in GA_MISSING_STOPS:
+        logger.warning(f'[{i}] ERROR: Failed to get data for stop {point_id}')
+        FAILED_STOPS_MISSING.append(point_id)
+
+# Full 5 route_types: 1m - 2m per 100. 86 mins total for 7694 stops
+# Select 1 route_type only: 17m - 20m total
+with open(f'{DATA_DIR}/missing_stops_real.json', 'w') as f:
+    f.write(json.dumps(GA_MISSING_STOPS))
+
+with open(f'{DATA_DIR}/failed_stops_missing.json', 'w') as f:
+    f.write(json.dumps(FAILED_STOPS_MISSING))
