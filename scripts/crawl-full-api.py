@@ -160,7 +160,7 @@ assert API_DF_DIRECTIONS[['route_id', 'route_type']].value_counts().max() <= 2, 
 
 API_DF_DIRECTIONS.to_csv(f'{DATA_DIR}/all_directions.csv', index=False)
 
-# API_DF_DIRECTIONS = pd.read_csv(f'{DATA_DIR}/all_directions.csv')
+# API_DF_DIRECTIONS = pd.read_csv(f'{DATA_DIR}/all_directions.csv', dtype=str)
 
 API_route_rtds = [(str(r), str(t), str(d)) for r, t, d in API_DF_DIRECTIONS[['route_id', 'route_type', 'direction_id']].values]
 
@@ -190,21 +190,20 @@ API_STOPS_DATA = { str(k): { str(k2): v2 for k2, v2 in v.items()} for k, v in AP
 with open(f'{DATA_DIR}/route_direction_stops.json', 'w') as f:
     f.write(json.dumps(API_STOPS_DATA))
 
+API_STOPS_DATA = json.load(open(f'{DATA_DIR}/route_direction_stops.json'))
+
+logger.info(f'Route id - Direction id count: {len(API_route_rtds)}')
+
 API_STOPS_STOPS = []
 API_STOPS_GEOPATHS = []
 for route_id, route_type, direction_id in API_route_rtds:
     stops = API_STOPS_DATA[route_id][direction_id]['stops']
     for stop in stops:
-        if 'stop_ticket' not in stop:
-            # print(f'Route {route_id} has no ticket key for stop {stop["stop_id"]}')
-            continue
-        if stop['stop_ticket'] is None:
-            # print(f'Route {route_id}: stop {stop["stop_id"]}: stop ticket is None. Skipping...')
-            continue
-        for mid, v in stop['stop_ticket'].items():
-            mid = f'stop_{mid}'
-            assert mid not in stop, f'Key {mid} already exists in stop'
-            stop[mid] = v
+        if 'stop_ticket' in stop and stop['stop_ticket'] is not None:    
+            for k, v in stop['stop_ticket'].items():
+                k = f'stop_{k}'
+                assert k not in stop, f'Key {k} already exists in stop'
+                stop[k] = v
         if 'route_id' not in stop:
             stop['route_id'] = route_id
         if 'route_type' not in stop:
@@ -224,16 +223,18 @@ for route_id, route_type, direction_id in API_route_rtds:
         
 with open(f'{DATA_DIR}/stops.json', 'w') as f:
     f.write(json.dumps(API_STOPS_STOPS))
+logger.info(f'Stops count: {len(API_STOPS_STOPS)}')
+
 with open(f'{DATA_DIR}/stops_geopaths.json', 'w') as f:
     f.write(json.dumps(API_STOPS_GEOPATHS))
-
+logger.info(f'Geopaths count: {len(API_STOPS_GEOPATHS)}')
 
 
 API_DF_STOPS = pd.DataFrame(API_STOPS_STOPS, dtype=str)
 API_DF_STOPS.drop(columns=['disruption_ids'], inplace=True)
 API_DF_STOPS['stop_ticket_zones'] = API_DF_STOPS['stop_ticket_zones'].apply(lambda x: ', '.join(map(str, x)) if isinstance(x, list) else x)
 API_DF_STOPS.drop(columns=['stop_ticket'], inplace=True)
-API_DF_STOPS['stop_is_regional'] = API_DF_STOPS['stop_zone'].apply(lambda x: 'Regional' in x)
+API_DF_STOPS['stop_is_regional'] = API_DF_STOPS['stop_zone'].apply(lambda x: 'Regional' in x if isinstance(x, str) else False)
 API_DF_STOPS['stop_zones'] = API_DF_STOPS['stop_ticket_zones']
 API_DF_STOPS.drop(columns=['stop_ticket_zones', 'stop_zone'], inplace=True)
 API_DF_STOPS = API_DF_STOPS[['stop_id', 'stop_name', 'stop_suburb', 'stop_latitude', 'stop_longitude', 'stop_sequence', 'route_id', 'direction_id',  'route_type',  'stop_landmark', 'stop_zones', 'stop_ticket_type', 'stop_is_free_fare_zone', 'stop_is_regional', 'stop_ticket_machine', 'stop_ticket_checks', 'stop_vline_reservation']]
@@ -241,7 +242,7 @@ API_DF_STOPS = API_DF_STOPS[['stop_id', 'stop_name', 'stop_suburb', 'stop_latitu
 API_DF_STOPS.to_csv(f'{DATA_DIR}/all_stops_stops.csv', index=False)
 # API_DF_STOPS = pd.read_csv(f'{DATA_DIR}/all_stops_stops.csv')
 
-logger.info(f'Stop ids count: {API_DF_STOPS['stop_id'].nunique()}')
+# # logger.info(f'Stop ids count: {API_DF_STOPS['stop_id'].nunique()}')
 
 API_all_stop_route_types = API_DF_STOPS[['stop_id', 'route_type']].drop_duplicates().apply(tuple, axis=1).tolist()
 
@@ -249,13 +250,18 @@ API_all_stop_route_types = [(str(stop_id), str(route_type)) for stop_id, route_t
 
 logger.info(f'Stop id - Route types count: {len(API_all_stop_route_types)}')
 
-# os.makedirs(f'{DATA_DIR}/stop_info', exist_ok=True)
 
-API_STOPS_INFO = {}
+if os.path.exists(f'{DATA_DIR}/stops_info.json'):
+    API_STOPS_INFO = json.load(open(f'{DATA_DIR}/stops_info.json', 'r'))
+else:
+    API_STOPS_INFO = {}
 
 FAILED_STOPS = []
 
 for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
+    if stop_id in API_STOPS_INFO and route_type in API_STOPS_INFO[stop_id] and 'stop' in API_STOPS_INFO[stop_id][route_type] and 'point_id' in API_STOPS_INFO[stop_id][route_type]['stop']:
+        logger.info(f'[{i}] Already got data for stop {stop_id}, route type {route_type}')
+        continue
     logger.info(f'[{i}] Getting info for stop {stop_id}, route type {route_type}')
     endpoint = f'/v3/stops/{stop_id}/route_type/{route_type}?gtfs=false&stop_location=true&stop_amenities=true&stop_accessibility=true&stop_contact=true&stop_ticket=true&stop_staffing=true&stop_disruptions=false'
     data = None
@@ -277,6 +283,8 @@ for i, (stop_id, route_type) in enumerate(API_all_stop_route_types):
             else:
                 logger.warning(f'[{i}] [{stop_id} {route_type}] Got error {e.response.status_code}.')
                 FAILED_STOPS.append((stop_id, route_type))
+                API_STOPS_INFO[stop_id] = API_STOPS_INFO.get(stop_id, {})
+                API_STOPS_INFO[stop_id][route_type] = {'stop': {'stop_id': stop_id, 'route_type': route_type}}
                 break
 
 with open(f'{DATA_DIR}/stops_info.json', 'w') as f:
@@ -285,12 +293,15 @@ with open(f'{DATA_DIR}/stops_info.json', 'w') as f:
 with open(f'{DATA_DIR}/failed_stops.json', 'w') as f:
     f.write(json.dumps(FAILED_STOPS))
 
+API_STOPS_INFO = json.load(open(f'{DATA_DIR}/stops_info.json', 'r'))
+
 API_STOPS_INFO_LIST = []
 
-for stop_id, route_type in API_all_stop_route_types:
-    assert str(API_STOPS_INFO[stop_id][route_type]['stop']['route_type']) == str(route_type)
-    assert str(API_STOPS_INFO[stop_id][route_type]['stop']['stop_id']) == str(stop_id)
-    API_STOPS_INFO_LIST.append(API_STOPS_INFO[stop_id][route_type]['stop'])
+for stop_id in API_STOPS_INFO:
+    for route_type in API_STOPS_INFO[stop_id]:
+        assert str(API_STOPS_INFO[stop_id][route_type]['stop']['route_type']) == str(route_type)
+        assert str(API_STOPS_INFO[stop_id][route_type]['stop']['stop_id']) == str(stop_id)
+        API_STOPS_INFO_LIST.append(API_STOPS_INFO[stop_id][route_type]['stop'])
 
 for stop_info in API_STOPS_INFO_LIST:
     stop_info : dict
@@ -301,10 +312,16 @@ for stop_info in API_STOPS_INFO_LIST:
             assert new_key not in stop_info, f'{new_key} already exists in {stop_info}'
             stop_info[new_key] = v2
         del stop_info[k]
+    for k, v in stop_info.items():
+        if isinstance(v, int) and not isinstance(v, bool):
+            stop_info[k] = str(v)
 
 API_DF_STOPS_INFO = pd.DataFrame(API_STOPS_INFO_LIST, dtype=str)
+API_DF_STOPS_INFO.to_csv(f'{DATA_DIR}/temp_all_stops_info.csv', index=False)
 
-assert API_DF_STOPS_INFO['station_details_id'].unique() == '0'
+assert API_DF_STOPS_INFO['station_details_id'].nunique() == 1, 'station_details_id is not unique'
+
+logger.info(f'Station details id: {API_DF_STOPS_INFO["station_details_id"].dropna().unique()}')
 
 API_DF_STOPS_INFO.drop(columns=['station_details_id', 'disruption_ids'], inplace=True)
 
@@ -333,7 +350,11 @@ GA_DF_STOPS = pd.merge(GTFS_DF_STOPS, API_DF_STOPS_GTFS_MAP, left_on='stop_id', 
 
 point_gtfs_mode_id_list = GA_DF_STOPS[GA_DF_STOPS['stop_id_api'].isna()][['stop_id_gtfs', 'mode_id']].apply(tuple, axis=1).unique()
 
-GA_MISSING_STOPS = {}
+if os.path.exists(f'{DATA_DIR}/missing_stops_real.json'):
+    GA_MISSING_STOPS = json.load(open(f'{DATA_DIR}/missing_stops_real.json', 'r'))
+else:
+    GA_MISSING_STOPS = {}
+
 priority_route_types = {
     '1': ['3', '0', '2', '1', '4'],
     '2': ['0', '3', '2', '1', '4'],
@@ -350,7 +371,11 @@ FAILED_STOPS_MISSING = []
 logger.info(f'Start getting missing stops')
 logger.info(f'Missing stops count: {len(point_gtfs_mode_id_list)}')
 for i, (point_id, mode_id) in enumerate(point_gtfs_mode_id_list):
+    if point_id in GA_MISSING_STOPS:
+        logger.info(f'[{i}] Already got data for stop {point_id}')
+        continue
     for route_type in priority_route_types[mode_id]:
+        logger.info(f'[{i}] Getting missing stop {point_id} for route type {route_type}')
         endpoint = f'/v3/stops/{point_id}/route_type/{route_type}?gtfs=true&stop_location=true&stop_amenities=true&stop_accessibility=true&stop_contact=true&stop_ticket=true&stop_staffing=true&stop_disruptions=false'
         data = None
         while data is None:
