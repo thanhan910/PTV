@@ -50,9 +50,22 @@ CREATE EXTENSION postgis;
 
 Prior to importing the SHP file, make sure that the `shp2pgsql` command is available in the system.
 
+Import the SHP file to the database with the following command:
+
 ```bash
 shp2pgsql -s <EPSG code> -I path/to/shapefile.shp schema.table_name | psql -d my_db -U postgres -h localhost -p 5432
 ```
+
+Make sure that you have created the schema in the database before running the command.
+```sql
+CREATE SCHEMA schema;
+```
+
+No need to specify the schema if you want to import the shapefile to the public schema.
+
+Replace `schema.table_name` with the schema and table name where you want to import the shapefile.
+
+No need to create the table before running the command. The `shp2pgsql` command will create the table for you.
 
 Replace `<EPSG code>` with the EPSG code of the shapefile, for example, `4326`, or `3857`, or `28356`.
 
