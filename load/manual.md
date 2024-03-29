@@ -158,10 +158,6 @@ psql -d my_db -U postgres -h localhost -p 5432 -c "\copy schema.table_name FROM 
 ALTER TABLE schema.table_name RENAME COLUMN old_column_name TO new_column_name;
 ```
 
-Rename multiple columns in a single command.
+You cannot rename multiple columns in a single command.
 
-```sql
-ALTER TABLE schema.table_name 
-    RENAME COLUMN old_column_name1 TO new_column_name1,
-    RENAME COLUMN old_column_name2 TO new_column_name2;
-```
+Reference: https://stackoverflow.com/questions/23274679/renaming-multiple-columns-in-one-statement-with-postgresql
