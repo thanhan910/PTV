@@ -30,7 +30,7 @@ If you are using Python and geopandas, you can choose the SHP format.
 - Home page: https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs
 - Download link: http://data.ptv.vic.gov.au/downloads/gtfs.zip
 
-The assumption is that the GTFS data is updated every week, on a Friday, at 3pm.
+The assumption is that the GTFS data is updated every week, on a Friday, at a time between 2 pm and 2:45 pm (seems like it is not 3 pm).
 
 ### PTV's GTFS Real-Time Data
 
