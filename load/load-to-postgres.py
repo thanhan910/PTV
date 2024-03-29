@@ -35,8 +35,10 @@ def create_logger(log_filepath, level=logging.INFO, name = "root"):
 if __name__ == '__main__':
 
     LOG_DIR = '../local/logs/vic_db' 
+    LOG_DIR = os.path.join(os.path.dirname(__file__), LOG_DIR)
     os.makedirs(LOG_DIR, exist_ok=True)
     DATA_DIR = '../local/datashare/data'
+    DATA_DIR = os.path.join(os.path.dirname(__file__), DATA_DIR)
 
 
     logger = create_logger('../local/logs/load-to-postgres.log')
@@ -89,24 +91,21 @@ if __name__ == '__main__':
     RENAME_COLUMN_SQL_COMMANDS = []
 
     for (schema_name, table_name, filepath, shp_column_names) in TABLES:
-        sql = f'ALTER TABLE {schema_name}.{table_name} '
-        sql += ', '.join(f'RENAME COLUMN {old_column_name.lower()} TO {new_column_name.lower()}' for old_column_name, new_column_name in 
-        shp_column_names.items())
-        sql += ';'
+        sql = ' '.join(f"ALTER TABLE {schema_name}.{table_name} RENAME COLUMN {old_column_name.lower()} TO {new_column_name.lower()};" for old_column_name, new_column_name in shp_column_names.items() if old_column_name != new_column_name)
         RENAME_COLUMN_SQL_COMMANDS.append(sql)
 
     for sql in RENAME_COLUMN_SQL_COMMANDS:
         BAT_COMMANDS.append(f'psql -U postgres -h localhost -p 5432 -d vic_db -c "{sql}"')
 
-    with open('load-to-postgres.bat', 'w') as f:
+    with open(os.path.join(os.path.dirname(__file__), 'load-to-postgres.bat'), 'w') as f:
         for bat_command in BAT_COMMANDS:
             f.write(bat_command)
             f.write('\n')
 
-    # Execute the bat commands
-    logger.info('Executing load-to-postgres.bat')
-    subprocess.run('load-to-postgres.bat', shell=True)
-    logger.info('Finished executing load-to-postgres.bat')
+    # # Execute the bat commands
+    # logger.info('Executing load-to-postgres.bat')
+    # subprocess.run('load-to-postgres.bat', shell=True)
+    # logger.info('Finished executing load-to-postgres.bat')
 
 
 
