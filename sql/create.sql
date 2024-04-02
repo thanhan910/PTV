@@ -74,7 +74,7 @@ CREATE TABLE stop_times (
     pickup_type INTEGER,
     drop_off_type INTEGER,
     shape_dist_traveled REAL,
-    PRIMARY KEY (trip_id, stop_sequence),
-    FOREIGN KEY (trip_id) REFERENCES trips(trip_id),
-    FOREIGN KEY (stop_id) REFERENCES stops(stop_id)
+    PRIMARY KEY (trip_id, stop_sequence)
+    -- FOREIGN KEY (trip_id) REFERENCES trips(trip_id),
+    -- FOREIGN KEY (stop_id) REFERENCES stops(stop_id)
 );
