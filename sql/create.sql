@@ -37,6 +37,21 @@ CREATE TABLE routes (
     PRIMARY KEY (route_id),
     FOREIGN KEY (agency_id) REFERENCES agency(agency_id)
 );
+CREATE TABLE shapes (
+    shape_id TEXT,
+    shape_pt_lat REAL,
+    shape_pt_lon REAL,
+    shape_pt_sequence INTEGER,
+    shape_dist_traveled REAL,
+    PRIMARY KEY (shape_id, shape_pt_sequence)
+);
+CREATE TABLE stops (
+    stop_id TEXT,
+    stop_name TEXT,
+    stop_lat REAL,
+    stop_lon REAL,
+    PRIMARY KEY (stop_id)
+);
 CREATE TABLE trips (
     route_id TEXT,
     service_id TEXT,
@@ -46,15 +61,8 @@ CREATE TABLE trips (
     direction_id INTEGER,
     PRIMARY KEY (trip_id),
     FOREIGN KEY (route_id) REFERENCES routes(route_id),
-    FOREIGN KEY (service_id) REFERENCES calendar(service_id),
-    FOREIGN KEY (shape_id) REFERENCES shapes(shape_id)
-);
-CREATE TABLE stops (
-    stop_id TEXT,
-    stop_name TEXT,
-    stop_lat REAL,
-    stop_lon REAL,
-    PRIMARY KEY (stop_id)
+    FOREIGN KEY (service_id) REFERENCES calendar(service_id)
+    -- FOREIGN KEY (shape_id) REFERENCES shapes(shape_id)
 );
 CREATE TABLE stop_times (
     trip_id TEXT,
@@ -69,12 +77,4 @@ CREATE TABLE stop_times (
     PRIMARY KEY (trip_id, stop_sequence),
     FOREIGN KEY (trip_id) REFERENCES trips(trip_id),
     FOREIGN KEY (stop_id) REFERENCES stops(stop_id)
-);
-CREATE TABLE shapes (
-    shape_id TEXT,
-    shape_pt_lat REAL,
-    shape_pt_lon REAL,
-    shape_pt_sequence INTEGER,
-    shape_dist_traveled REAL,
-    PRIMARY KEY (shape_id, shape_pt_sequence)
 );
