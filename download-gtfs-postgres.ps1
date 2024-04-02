@@ -93,7 +93,7 @@ if ($u) {
             $fileNameWithoutExtension = [System.IO.Path]::GetFileNameWithoutExtension($txt_file.Name)
             $folderName = [System.IO.Path]::GetFileName($folder.Name)
             Write-Host "$folderName.$fileNameWithoutExtension"
-            psql -U postgres -d vic_db -c "\copy gtfs_$folderName.$fileNameWithoutExtension FROM '$($txt_file.FullName)' DELIMITER ',' CSV HEADER;"
+            psql -U postgres -d vic_db -c "\copy gtfs_$folderName.$fileNameWithoutExtension FROM '$($txt_file.FullName)' DELIMITER ',' CSV NULL '' HEADER;"
         }
     }
 
@@ -101,3 +101,17 @@ if ($u) {
     Write-Host "Deleting extracted GTFS files..."
     Remove-Item -Path "$download_folder\gtfs" -Recurse -Force
 }
+
+
+# Capture script end time
+$script_end_time_2 = Get-Date -Format "HH:mm:ss"
+Write-Host "Script end time: $script_end_time_2"
+
+# Calculate the time taken by the script
+$start_2 = [DateTime]::ParseExact($script_end_time, "HH:mm:ss", $null).Ticks
+$end_2 = [DateTime]::ParseExact($script_end_time_2, "HH:mm:ss", $null).Ticks
+$diff_2 = ($end_2 - $start_2) / 10000
+
+# Format and echo the time taken by the script
+$time_taken_2 = [TimeSpan]::FromMilliseconds($diff_2).ToString("hh\:mm\:ss\.ff")
+Write-Host "Time taken by the script: $time_taken_2"
