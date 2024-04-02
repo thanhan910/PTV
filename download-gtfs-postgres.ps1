@@ -89,11 +89,10 @@ if ($u) {
     foreach ($folder in $gtfs_folders) {
         $txt_files = Get-ChildItem -Path $folder.FullName -Filter "*.txt"
         foreach ($txt_file in $txt_files) {
-            Write-Host "Processing file $($txt_file.FullName)..."
             # Import the data from the txt file into the database
             $fileNameWithoutExtension = [System.IO.Path]::GetFileNameWithoutExtension($txt_file.Name)
             $folderName = [System.IO.Path]::GetFileName($folder.Name)
-            Write-Host "\copy gtfs_$folderName.$fileNameWithoutExtension FROM '$($txt_file.FullName)' DELIMITER ',' CSV HEADER;"
+            Write-Host "$folderName.$fileNameWithoutExtension"
             psql -U postgres -d vic_db -c "\copy gtfs_$folderName.$fileNameWithoutExtension FROM '$($txt_file.FullName)' DELIMITER ',' CSV HEADER;"
         }
     }
