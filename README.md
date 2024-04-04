@@ -1,4 +1,16 @@
-# PTV Data 
+# PTV
+
+This project focuses on analyzing Victoria's Geography, Suburb Boundaries, Public Transport System, and road network through publicly available data from PTV, ABS, Vicmap, GNAF, and other sources.
+
+## Related repositories
+- https://github.com/thanhan910/PTV
+- https://github.com/thanhan910/vic_db
+- https://github.com/thanhan910/vicpathfinding
+- https://github.com/thanhan910/ausgeo
+- https://github.com/thanhan910/SuburbSelect
+
+
+## Old README: PTV Data 
 
 This project focuses on analyzing the State of Victoria's Public Transport System (PTV) through its publicly available data.
 
