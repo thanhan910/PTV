@@ -4,6 +4,8 @@ This project focuses on analyzing Victoria's Geography, Suburb Boundaries, Publi
 
 ## Related repositories
 - https://github.com/thanhan910/PTV
+- https://github.com/thanhan910/pyptvgtfs
+- https://github.com/thanhan910/pyptvdata
 - https://github.com/thanhan910/vic_db
 - https://github.com/thanhan910/vicpathfinding
 - https://github.com/thanhan910/ausgeo
